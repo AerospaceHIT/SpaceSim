@@ -1,4 +1,4 @@
-site_name: Basic MkDocs Example Project
+site_name: 航天器系统仿真软件SpaceSim
 theme:
   name: readthedocs
   highlightjs: true
