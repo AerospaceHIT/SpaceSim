@@ -1,5 +1,3 @@
-{!README.md!}
-
 # 欢迎使用航天器系统仿真软件SpaceSim
 
 **Lumache** (/lu\'make/) is a Python library for cooks and food lovers
@@ -13,8 +11,8 @@ Check out the [usage](usage) section for further information, including how to [
 
     This project is under active development.
 
-[Installation] 安装说明
+[Installation](Installation) 安装说明
 
-[Tutorial] 使用手册
+[Tutorial](Tutorial) 使用手册
 
 
