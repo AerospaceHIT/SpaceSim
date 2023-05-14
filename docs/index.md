@@ -1,18 +1,9 @@
 # 欢迎使用航天器系统仿真软件SpaceSim
 
-**Lumache** (/lu\'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients. It pulls data from the
-[Open Food Facts database](https://world.openfoodfacts.org/) and offers
-a *simple* and *intuitive* API.
+简介：
 
-Check out the [usage](usage) section for further information, including how to [install](usage#installation) the project.
-
-!!! note
-
-    This project is under active development.
-
-[Installation](Installation) 安装说明
-
-[Tutorial](Tutorial) 使用手册
-
+[安装说明](Installation) 
+[使用手册](Tutorial) 
+[指令列表](CommandList) 
+[开发指南](Develop) 
 
