@@ -1,73 +1,63 @@
-Example: Basic MkDocs project for Read the Docs
-===============================================
-
-[![Documentation Status](https://readthedocs.org/projects/example-mkdocs-basic/badge/?version=latest)](https://example-mkdocs-basic.readthedocs.io/en/latest/?badge=latest)
-
-This example shows a basic MkDocs project with Read the Docs. You're encouraged to view it to get inspiration and copy & paste from the files in the source code. If you are using Read the Docs for the first time, have a look at the official [Read the Docs Tutorial](https://docs.readthedocs.io/en/stable/tutorial/index.html).
-
-📚 [docs/](https://github.com/readthedocs-examples/example-mkdocs-basic/blob/main/docs/)<br>
-A basic MkDocs project lives in `docs/`, it was generated using MkDocs defaults. All the `*.md` make up sections in the documentation.
-
-⚙️ [.readthedocs.yaml](https://github.com/readthedocs-examples/example-mkdocs-basic/blob/main/.readthedocs.yaml)<br>
-Read the Docs Build configuration is stored in `.readthedocs.yaml`.
-
-⚙️ [mkdocs.yml](https://github.com/readthedocs-examples/example-mkdocs-basic/blob/main/mkdocs.yml)<br>
-A basic [MkDocs configuration](https://www.mkdocs.org/user-guide/configuration/) is stored here, including a few extensions for MkDocs and Markdown. Add your own configurations here, such as extensions and themes. Remember that many extensions and themes require additional Python packages to be installed.
-
-📍 [docs/requirements.txt](https://github.com/readthedocs-examples/example-mkdocs-basic/blob/main/docs/requirements.txt) and [docs/requirements.in](https://github.com/readthedocs-examples/example-mkdocs-basic/blob/main/docs/requirements.in)<br>
-Python dependencies are [pinned](https://docs.readthedocs.io/en/latest/guides/reproducible-builds.html) (uses [pip-tools](https://pip-tools.readthedocs.io/en/latest/)) here. Make sure to add your Python dependencies to `requirements.txt` or if you choose [pip-tools](https://pip-tools.readthedocs.io/en/latest/), edit `docs/requirements.in` and remember to run to run `pip-compile docs/requirements.in`.
-
-💡 [docs/api.md](https://github.com/readthedocs-examples/example-mkdocs-basic/blob/main/docs/api.md)<br>
-We add our example Python module `lumache` in order to auto-generate an API reference. To do this, we use the `:::` syntax, you can read more in the [mkdocstrings documentation](https://mkdocstrings.github.io/).
-
-💡 [docs/usage.md](https://github.com/readthedocs-examples/example-mkdocs-basic/blob/main/docs/usage.md)<br>
-We also include some direct links to a function from the API reference, as well as embedding documentation for the example function `lumache.get_random_recipe`. This functionality is also from the [mkdocstrings](https://mkdocstrings.github.io/python/) extension.
-
-💡 [lumache.py](https://github.com/readthedocs-examples/example-mkdocs-basic/blob/main/lumache.py)<br>
-API docs are generated for this example Python module - they use *docstrings* directly in the documentation, notice how this shows up in the rendered documentation. We use the [Sphinx convention](https://pythonhosted.org/an_example_pypi_project/sphinx.html#function-definitions) for docstrings, however you are free to edit `mkdocs.yml` to change this option to `google` or `numpy`.
-
-🔢 Git tags versioning<br>
-We use a basic versioning mechanism by adding a git tag for every release of the example project. All releases and their version numbers are visible on
-[example-mkdocs-basic.readthedocs.io](https://example-mkdocs-basic.readthedocs.io/en/latest/).
-
-📜 [README.md](https://github.com/readthedocs-examples/example-mkdocs-basic/blob/main/README.md)<br>
-Contents of this `README.md` are visible on Github and included on [the documentation index page](https://example-mkdocs-basic.readthedocs.io/en/latest/) (Don\'t Repeat Yourself).
-
-⁉️ Questions / comments<br>
-If you have questions related to this example, feel free to can ask them as a Github issue [here](https://github.com/readthedocs-examples/example-mkdocs-basic/issues).
 
 
-Example Project usage
----------------------
+## 软件名称
 
-This project has a standard MkDocs layout which is built by Read the Docs almost the same way that you would build it locally (on your own laptop!).
+SpaceSim航天器系统仿真软件
 
-You can build and view this documentation project locally - we recommend that you activate [a local Python virtual environment first](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment):
+## 软件功能
 
-```console
-# Install required Python dependencies (MkDocs etc.)
-pip install -r docs/requirements.txt
+SpaceSim航天器系统仿真软件是一款具有自主知识产权、基于C++开发的航天系统仿真软件，能够支持航天设计、测试、发射、运行和任务应用全生命周期的仿真分析，可进行航天器任务仿真与设计，姿态/轨道动力学与控制、通信卫星覆盖及干扰特性、导航星座设计与信号特性、空间光学遥感成像、星座任务规划与调度、空间攻防对抗等不同专业领域的仿真与分析。
 
-# Run the mkdocs development server
-mkdocs serve
-```
+## 软件架构
 
-Using the example in your own project
--------------------------------------
+SpaceSim航天器系统仿真软件基于C++/QT开发，能够支持X86、ARM、FPGA、GPU等主流硬件框架，可跨平台运行在Windows、Ubuntu以及麒麟国产操作系统等。
 
-If you are new to Read the Docs, you may want to refer to the [Read the Docs User documentation](https://docs.readthedocs.io/).
+软件基于模块化开发，场景配置、数据、显示、交互界面独立运行，而且所有代码均有源代码，自主可控，使用了部分版权友好的开源类库，支持闭源商业化应用，无版权纠纷。软件的配置基于JSON及XML，数据库采用MySQL/MariaDB，三维显示引擎采用OpenSceneGraph/OpenGL，所有组件可以通过DLL、COM组件、FMI及网络通讯等不同形式集成到其他第三方系统中，同时可基于模板类实现用户自定义二次开发模块的即插即用扩展。
 
-If you are copying this code in order to get started with your documentation, you need to:
+![img](D:\SVN\satsim\Doc\SpaceSimDoc\assets\clip_image002.png)
 
-1. place your `docs/` folder alongside your Python project. If you are starting a new project, you can adapt the `pyproject.toml` example configuration.
-1. use your existing project repository or create a new repository on Github, GitLab, Bitbucket or another host supported by Read the Docs.
-1. copy `mkdocs.yml`, `.readthedocs.yaml` and the `docs/` folder into your project.
-1. customize all the files, replacing example contents.
-1. Rebuild the documenation locally to see that it works.
-1. *Finally*, register your project on Read the Docs, see [Importing Your Documentation](https://docs.readthedocs.io/en/stable/intro/import-guide.html).
+图 1 SpaceSim软件界面
 
+![img](D:\SVN\satsim\Doc\SpaceSimDoc\assets\clip_image004.png)
 
-Read the Docs tutorial
-----------------------
+图 2 SpaceSim软件框架与功能模块
 
-To get started with Read the Docs, you may also refer to the [Read the Docs tutorial](https://docs.readthedocs.io/en/stable/tutorial/). It provides a full walk-through of building an example project similar to the one in this repository.
+ 
+
+##  应用情况及典型案例
+
+软件成功应用于哈尔滨工业大学、西北工业大学、南京航空航天大学等科研院所及高校的教学及科研中，并支持了空间站、北斗导航卫星、月球探测器等型号研制任务。
+
+![img](D:\SVN\satsim\Doc\SpaceSimDoc\assets\clip_image006.jpg)
+
+图 3北斗导航卫星星座仿真
+
+![img](D:\SVN\satsim\Doc\SpaceSimDoc\assets\clip_image008.png)
+
+图 4 天线通讯覆盖特性仿真
+
+![img](D:\SVN\satsim\Doc\SpaceSimDoc\assets\clip_image010.jpg)
+
+图 5 异构星群通讯路由仿真
+
+![img](D:\SVN\satsim\Doc\SpaceSimDoc\assets\clip_image012.png)
+
+图 6 天线通讯增益仿真
+
+![img](D:\SVN\satsim\Doc\SpaceSimDoc\assets\clip_image014.jpg)
+
+图 7 攻防对抗仿真
+
+![img](D:\SVN\satsim\Doc\SpaceSimDoc\assets\clip_image016.jpg)
+
+图 8 光学相机遥感图像仿真
+
+![img](D:\SVN\satsim\Doc\SpaceSimDoc\assets\clip_image018.jpg)
+
+图 9 低轨通讯星座仿真
+
+![img](D:\SVN\satsim\Doc\SpaceSimDoc\assets\clip_image020.jpg)
+
+图 10 半物理仿真
+
+ 
