@@ -33,8 +33,7 @@ We use a basic versioning mechanism by adding a git tag for every release of the
 📜 [README.md](https://github.com/readthedocs-examples/example-mkdocs-basic/blob/main/README.md)<br>
 Contents of this `README.md` are visible on Github and included on [the documentation index page](https://example-mkdocs-basic.readthedocs.io/en/latest/) (Don\'t Repeat Yourself).
 
-⁉️ Questions / comments<br>
-If you have questions related to this example, feel free to can ask them as a Github issue [here](https://github.com/readthedocs-examples/example-mkdocs-basic/issues).
+xxxxxxxxxx >>> import lumache>>> lumache.get_random_ingredients()['shells', 'gorgonzola', 'parsley']python
 
 
 Example Project usage
