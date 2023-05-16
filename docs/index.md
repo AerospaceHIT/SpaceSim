@@ -42,15 +42,15 @@ SpaceSim航天器系统仿真软件基于C++/QT开发，能够支持X86、ARM、
 
 图 3北斗导航卫星星座仿真
 
-![img](../assets/clip_image008.png)
+![img](clip_image008.png)
 
 图 4 天线通讯覆盖特性仿真
 
-![img](../assets/clip_image010.jpg)
+![img](clip_image010.jpg)
 
 图 5 异构星群通讯路由仿真
 
-![img](../assets/clip_image012.png)
+![img](clip_image012.png)
 
 图 6 天线通讯增益仿真
 
