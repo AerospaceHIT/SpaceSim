@@ -60,8 +60,4 @@ SpaceSim航天器系统仿真软件基于C++/QT开发，能够支持X86、ARM、
 
 图 9 低轨通讯星座仿真
 
-![img](assets/clip_image020.jpg)
-
-图 10 半物理仿真
-
  
