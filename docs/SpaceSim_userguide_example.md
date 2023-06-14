@@ -32,7 +32,7 @@
 
 仿真结果三维显示效果如图1-1所示，展示不同轨道间的差异。
 
-<img src="SpaceSim_userguide_example.assets/clip_image002.png" alt="img" style="zoom: 33%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image002.png" alt="img" style="zoom: 33%;" />
 
 <center>图1-1预期3D仿真结果</center>
 
@@ -46,7 +46,7 @@
 
 启动SpaceSim软件，点击“新建场景”，输入场景名称，时间参数保持默认，点击OK完成。如图1-2所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image004.png" alt="img" style="zoom: 67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image004.png" alt="img" style="zoom: 67%;" />
 
 <center>图1-2 新建场景</center>
 
@@ -56,7 +56,7 @@
 
 菜单栏点击“模型”，选择“添加卫星”，如图1-3所示。 
 
-<img src="SpaceSim_userguide_example.assets/clip_image006.png" alt="图1.2 添加卫星方法1" style="zoom: 67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image006.png" alt="图1.2 添加卫星方法1" style="zoom: 67%;" />
 
 <center>图1-3 通过菜单栏添加卫星</center>
 
@@ -64,7 +64,7 @@
 
 也可以在左侧的Object Viewer栏，卫星标签上右键，选择“添加卫星”，如图1-4所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image008.png" alt="图1.3 添加卫星方法2" style="zoom: 67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image008.png" alt="图1.3 添加卫星方法2" style="zoom: 67%;" />
 
 <center>图1-4 通过Object Viewer添加卫星</center>
 
@@ -74,7 +74,7 @@
 
 在Object Viewer窗口下双击所添加的卫星对象，在弹出的参数框内选择理想轨道中的“理想二体”，输入低轨道卫星的轨道参数，卫星自动命名为SAT_1，同理生成SAT_2和SAT_3卫星，分别输入中轨道和高轨道的六根数，如图1-5所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image010.png" alt="图1.4 设置卫星轨道参数" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image010.png" alt="图1.4 设置卫星轨道参数" style="zoom:67%;" />
 
 <center>图1-5 设置卫星轨道参数</center>
 
@@ -82,7 +82,7 @@
 
 补充：对于中轨道卫星，由于具有偏心率，是椭圆轨道，也可通过设置近地点和远地点（轨道高度）来代替半长轴和偏心率参数（如图1-6所示），用该方法生成卫星SAT_4进行对比。
 
-<img src="SpaceSim_userguide_example.assets/clip_image012.png" alt="图1.5 通过轨道高度设置卫星参数" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image012.png" alt="图1.5 通过轨道高度设置卫星参数" style="zoom:67%;" />
 
 <center>图1-6 通过轨道高度设置卫星轨道参数</center>
 
@@ -90,7 +90,7 @@
 
 可以在“卫星设置-模型显示参数”栏中，修改卫星名称和运行轨道颜色，便于分辨各卫星的运动，如图1-7所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image014.png" alt="图1.6 修改卫星名称和轨迹颜色" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image014.png" alt="图1.6 修改卫星名称和轨迹颜色" style="zoom:67%;" />
 
 <center>图1-7 修改卫星名称和轨迹颜色</center>
 
@@ -98,7 +98,7 @@
 
 可以在“卫星设置-初始参数”栏中，修改卫星初始姿态参数以及显示缩放大小，如图 1-8所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image016.png" alt="图1.8(新) 修改卫星姿态与缩放参数" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image016.png" alt="图1.8(新) 修改卫星姿态与缩放参数" style="zoom:67%;" />
 
 <center>图 1-8 修改卫星姿态与缩放参数</center>
 
@@ -108,13 +108,13 @@
 
 在Object Viewer栏中双击“输出（Output）”，如图1-9所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image018.png" alt="图1.7 选中输出（Output）" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image018.png" alt="图1.7 选中输出（Output）" style="zoom:67%;" />
 
 <center>图1-9 选中输出（Output）</center>
 
-选中所要输出的对象（此处以SAT_1为例），在轨道一栏中选择“惯性系位置速度”，点击![img](SpaceSim_userguide_example.assets/clip_image020.png)选择输出，如图1-10所示。
+选中所要输出的对象（此处以SAT_1为例），在轨道一栏中选择“惯性系位置速度”，点击![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image020.png)选择输出，如图1-10所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image022.png" alt="图1.8 选择输出参数" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image022.png" alt="图1.8 选择输出参数" style="zoom:67%;" />
 
 <center>图1-10 选择输出参数</center>
 
@@ -124,13 +124,13 @@
 
 在“场景”栏下点击“开始仿真”按钮，播放仿真动画，如图1-11所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image024.png" alt="图1.9 动画仿真演示" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image024.png" alt="图1.9 动画仿真演示" style="zoom:67%;" />
 
 <center>图1-11 动画仿真演示</center>
 
  
 
-通过演示控制台<img src="SpaceSim_userguide_example.assets/clip_image026.png" alt="img" style="zoom:67%;" />可以调整动画仿真进度，包括演示动画的播放速度和播放重置等。
+通过演示控制台<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image026.png" alt="img" style="zoom:67%;" />可以调整动画仿真进度，包括演示动画的播放速度和播放重置等。
 
 ## 三、结果分析
 
@@ -138,13 +138,13 @@
 
 动画仿真的结果如图1-12、图1-13所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image028.png" alt="图1.10 仿真过程3D" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image028.png" alt="图1.10 仿真过程3D" style="zoom:67%;" />
 
 <center>图1-12 仿真结果3D</center>
 
  
 
-<img src="SpaceSim_userguide_example.assets/clip_image030.png" alt="图1.11 仿真过程2D" style="zoom: 50%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image030.png" alt="图1.11 仿真过程2D" style="zoom: 50%;" />
 
 <center>图1-13 仿真结果2D</center>
 
@@ -154,7 +154,7 @@
 
 ..\SpaceSim\scenes\LECTURE_1ORBIT_3AltituteOrbit\Output，找到输出的报告文件，如图1-14所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image032.png" alt="图1.12 报告位置" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image032.png" alt="图1.12 报告位置" style="zoom:67%;" />
 
 <center>图1-14 输出文件路径</center>
 
@@ -162,7 +162,7 @@
 
 查看输出文件，文件输出结果如图1-15所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image034.png" alt="图1.11 报告" style="zoom: 50%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image034.png" alt="图1.11 报告" style="zoom: 50%;" />
 
 <center>图1-15 查看输出报告</center>
 
@@ -215,9 +215,9 @@ $$
 
 地球同步静止轨道为高轨圆轨道，运行周期与地球自转同步，星下点轨迹应为一个点，其预期仿真结果大致如图 2-1所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image046.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image046.png" alt="img" style="zoom:67%;" />
 
-<img src="SpaceSim_userguide_example.assets/clip_image048.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image048.png" alt="img" style="zoom:67%;" />
 
 <center>图 2-1 地球同步静止轨道仿真预期结果</center>
 
@@ -233,7 +233,7 @@ $$
 
 启动SpaceSim软件，点击“新建场景”，输入场景名称。由于本次仿真中卫星的升交点赤经值由仿真时间计算所得，需要将仿真时间与案例中统一，仿真开始时刻设置为：2022/7/24_04:00:00，具体设置如图 2-2所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image050.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image050.png" alt="img" style="zoom:67%;" />
 
 <center>图 2-2 新建场景</center>
 
@@ -243,15 +243,15 @@ $$
 
 在场景中添加一颗卫星，默认命名为SAT_1，设置其参数如下：半长轴42166.3 km，偏心率0，轨道倾角0°，升交点赤经128.4934°，近地点幅角、真（平）近点角0°，完成参数设置如图 2-3所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image052.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image052.png" alt="img" style="zoom:67%;" />
 
 <center>图 2-3 卫星参数设置</center>
 
  
 
-补充：由于参数中![img](SpaceSim_userguide_example.assets/clip_image054.png)的值随着仿真时间的变化而变化，因而升交点赤经的值设置较为繁琐，SpaceSim中提供了更加便捷的设置方案。在轨道设置中选择地球同步静止轨道，输入卫星定点经度（126.63°），如图 2-4所示。
+补充：由于参数中![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image054.png)的值随着仿真时间的变化而变化，因而升交点赤经的值设置较为繁琐，SpaceSim中提供了更加便捷的设置方案。在轨道设置中选择地球同步静止轨道，输入卫星定点经度（126.63°），如图 2-4所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image056.png" alt="图2.2 简便方法设置卫星参数" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image056.png" alt="图2.2 简便方法设置卫星参数" style="zoom:67%;" />
 
 <center>图 2-4 简便卫星参数设置</center>
 
@@ -261,7 +261,7 @@ $$
 
 可以在“卫星设置-模型显示参数”栏中，选择“二维视窗显示经纬度”，如图 2-5所示，以便于观察地球同步静止轨道卫星的星下点位置变化情况。
 
-<img src="SpaceSim_userguide_example.assets/clip_image058.png" alt="图2.3 显示经纬度" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image058.png" alt="图2.3 显示经纬度" style="zoom:67%;" />
 
 <center>图 2-5 添加经纬度显示</center>
 
@@ -271,7 +271,7 @@ $$
 
 点击“开始仿真”按钮，如图 2-6所示，播放仿真动画。
 
-<img src="SpaceSim_userguide_example.assets/clip_image060.png" alt="图2.4 动画仿真" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image060.png" alt="图2.4 动画仿真" style="zoom:67%;" />
 
 <center>图 2-6 动画仿真演示</center>
 
@@ -283,13 +283,13 @@ $$
 
 仿真结果如图 2-7、图 2-8所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image062.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image062.png" alt="img" style="zoom:67%;" />
 
 <center>图 2-7 仿真结果3D</center>
 
  
 
-<img src="SpaceSim_userguide_example.assets/clip_image064.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image064.png" alt="img" style="zoom:67%;" />
 
 <center>图 2-8 仿真结果2D</center>
 
@@ -327,9 +327,9 @@ $$
 
 由于不同模型之间存在仿真精度的差异，因而在经过足够长的时间之后，4种卫星轨道间应该开始出现分离，如图 3-1所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image066.png" alt="图3.1 预期结果3D" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image066.png" alt="图3.1 预期结果3D" style="zoom:67%;" />
 
-<img src="SpaceSim_userguide_example.assets/clip_image068.png" alt="图3.2 预期结果2D" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image068.png" alt="图3.2 预期结果2D" style="zoom:67%;" />
 
 <center>图 3-1 卫星轨道出现分离</center>
 
@@ -345,7 +345,7 @@ $$
 
 启动SpaceSim软件，点击“新建场景”，输入场景名称，仿真时间保持默认，设置完毕如图 3-2所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image070.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image070.png" alt="img" style="zoom:67%;" />
 
 <center>图 3-2 新建场景</center>
 
@@ -355,7 +355,7 @@ $$
 
 在场景中插入4颗卫星，保持默认命名。4颗卫星的轨道参数设置均如下：半长轴6871 km，偏心率0（圆轨道），轨道倾角45°，升交点赤经0°，近地点幅角0°，真（平）近点角0°。完成设置如图 3-3所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image072.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image072.png" alt="img" style="zoom:67%;" />
 
 <center>图 3-3 设置卫星参数</center>
 
@@ -363,7 +363,7 @@ $$
 
 其中，SAT_1~3这3颗卫星的仿真模型选择“理想轨道”，在“理想轨道”后的类型中分别选择“理想二体”、“J2摄动”、“J4摄动”，如图 3-4所示。    
 
-<img src="SpaceSim_userguide_example.assets/clip_image074.png" alt="图3.5 选择仿真模型" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image074.png" alt="图3.5 选择仿真模型" style="zoom:67%;" />
 
 <center>图 3-4 “理想轨道”仿真模型</center>
 
@@ -371,7 +371,7 @@ $$
 
 而SAT_4卫星的仿真模型选择“高精度轨道模型HPOP”，如图 3-5所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image076.png" alt="图3.6 选择仿真模型2" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image076.png" alt="图3.6 选择仿真模型2" style="zoom:67%;" />
 
 <center>图 3-5 HPOP模型</center>
 
@@ -381,7 +381,7 @@ $$
 
 在Object Viewer栏中双击“输出（Output）”，将4颗卫星的“惯性系位置速度”和“经度、纬度、海拔高度”输出成文件，如图 3-6所示，便于后续的分析。
 
-<img src="SpaceSim_userguide_example.assets/clip_image078.png" alt="图3.7 添加输出" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image078.png" alt="图3.7 添加输出" style="zoom:67%;" />
 
 <center>图 3-6 选择输出参数</center>
 
@@ -391,7 +391,7 @@ $$
 
 点击“开始仿真”，播放仿真动画，如图 3-7所示，运行至动画结束。注意观察4颗卫星轨道的变化情况。
 
-<img src="SpaceSim_userguide_example.assets/clip_image080.png" alt="图3.8 开始仿真" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image080.png" alt="图3.8 开始仿真" style="zoom:67%;" />
 
 <center>图 3-7 动画仿真演示</center>
 
@@ -403,21 +403,21 @@ $$
 
 动画仿真的结果如图 3-8、图 3-9所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image082.png" alt="图3.9 仿真结果3D" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image082.png" alt="图3.9 仿真结果3D" style="zoom:67%;" />
 
-<img src="SpaceSim_userguide_example.assets/clip_image084.png" alt="图3.9 仿真结果3D_plus" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image084.png" alt="图3.9 仿真结果3D_plus" style="zoom:67%;" />
 
 <center>图 3-8 仿真结果3D</center>
 
  
 
-<img src="SpaceSim_userguide_example.assets/clip_image086.png" alt="图3.10 仿真结果2D" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image086.png" alt="图3.10 仿真结果2D" style="zoom:67%;" />
 
 <center>图 3-9 仿真结果2D</center>
 
 文件输出结果如图 3-10所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image088.png" alt="图3.11 输出文件" style="zoom: 50%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image088.png" alt="图3.11 输出文件" style="zoom: 50%;" />
 
 <center>图 3-10 输出结果</center>
 
@@ -429,17 +429,17 @@ $$
 
 将输出文件的数据导入matlab，并绘制对比图样，得到如图 3-11、图 3-12、图 3-13所示的结果。
 
-![img](SpaceSim_userguide_example.assets/clip_image090.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image090.png)
 
-![img](SpaceSim_userguide_example.assets/clip_image092.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image092.png)
 
  
 
-![img](SpaceSim_userguide_example.assets/clip_image094.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image094.png)
 
-![img](SpaceSim_userguide_example.assets/clip_image096.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image096.png)
 
-![img](SpaceSim_userguide_example.assets/clip_image098.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image098.png)
 
 <center>图 3-11 理想二体与J2模型对比</center>
 
@@ -447,15 +447,15 @@ $$
 
 仿真一天的最大位置误差达到650 km，最大速度误差超过0.7 km/s；经度误差约5°，纬度误差5°，高度误差约1.4km。 
 
-![img](SpaceSim_userguide_example.assets/clip_image100.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image100.png)
 
-![img](SpaceSim_userguide_example.assets/clip_image102.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image102.png)
 
-![img](SpaceSim_userguide_example.assets/clip_image104.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image104.png)
 
-![img](SpaceSim_userguide_example.assets/clip_image106.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image106.png)
 
-![img](SpaceSim_userguide_example.assets/clip_image108.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image108.png)
 
 <center>图 3-12 理想二体与HPOP模型对比 </center>
 
@@ -463,15 +463,15 @@ $$
 
  
 
-![img](SpaceSim_userguide_example.assets/clip_image110.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image110.png)
 
-![img](SpaceSim_userguide_example.assets/clip_image112.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image112.png)
 
-![img](SpaceSim_userguide_example.assets/clip_image114.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image114.png)
 
-![img](SpaceSim_userguide_example.assets/clip_image116.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image116.png)
 
-![img](SpaceSim_userguide_example.assets/clip_image118.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image118.png)
 
 <center>图 3-13 J2模型与J4模型对比</center>
 
@@ -521,7 +521,7 @@ $$
 
 预期结果如图 4-1所示，该轨道的轨道平面应始终与太阳光线保持固定的夹角。
 
-<img src="SpaceSim_userguide_example.assets/clip_image130.png" alt="图4.1 预期结果" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image130.png" alt="图4.1 预期结果" style="zoom:67%;" />
 
 <center>图 4-1 太阳同步轨道</center>
 
@@ -537,7 +537,7 @@ $$
 
 由于太阳同步轨道变化速度慢，需要较长的仿真时间才能观察到较为明显的现象，案例中结束时刻设置为：2022/8/24_04:00:00，可根据需要自行延长或缩短，完成设置如图 4-2所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image132.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image132.png" alt="img" style="zoom:67%;" />
 
 <center>图 4-2 新建场景</center>
 
@@ -551,7 +551,7 @@ $$
 
 注意要将轨道模型修改为J2摄动。
 
-<img src="SpaceSim_userguide_example.assets/clip_image134.png" alt="图4.3 轨道参数" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image134.png" alt="图4.3 轨道参数" style="zoom:67%;" />
 
 <center>图 4-3 太阳同步轨道参数设置</center>
 
@@ -561,9 +561,9 @@ $$
 
 在Object Viewer栏中双击“输出（Output）”，将卫星的“卫星六要素”和“太阳角”数据输出成文件，如图 4-4所示，后续可利用输出数据进一步分析太阳同步轨道的性质。
 
-<img src="SpaceSim_userguide_example.assets/clip_image136.png" alt="图4.4 输出参数1" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image136.png" alt="图4.4 输出参数1" style="zoom:67%;" />
 
-<img src="SpaceSim_userguide_example.assets/clip_image138.png" alt="图4.4 输出参数2" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image138.png" alt="图4.4 输出参数2" style="zoom:67%;" />
 
 <center>图 4-4 选择输出参数</center>
 
@@ -573,7 +573,7 @@ $$
 
 点击“开始仿真”，播放仿真动画。在模拟仿真过程中，太阳的位置会发生变化，建议将视角调整到视图边缘，如图 4-5所示的位置，便于观察太阳的移动以及与轨道面之间的相对关系。
 
-<img src="SpaceSim_userguide_example.assets/clip_image140.png" alt="图4.5 开始仿真" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image140.png" alt="图4.5 开始仿真" style="zoom:67%;" />
 
 <center>图 4-5动画仿真演示</center>
 
@@ -585,13 +585,13 @@ $$
 
 动画仿真结果如图 4-6、图 4-7所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image142.png" alt="图4.6 仿真结果3D" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image142.png" alt="图4.6 仿真结果3D" style="zoom:67%;" />
 
 <center>图 4-6 仿真结果3D</center>
 
  
 
-<img src="SpaceSim_userguide_example.assets/clip_image144.png" alt="图4.7 仿真结果2D" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image144.png" alt="图4.7 仿真结果2D" style="zoom:67%;" />
 
 <center>图 4-7 仿真结果2D</center>
 
@@ -599,7 +599,7 @@ $$
 
 输出文件如图 4-8所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image146.png" alt="img" style="zoom: 50%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image146.png" alt="img" style="zoom: 50%;" />
 
 <center>图 4-8 输出文件</center>
 
@@ -611,13 +611,13 @@ $$
 
 将图 4-8所示的输出文件导入matlab等分析软件，绘制分析图样，得到图 4-9、图 4-10所示的结果。
 
-<img src="SpaceSim_userguide_example.assets/clip_image148.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image148.png" alt="img" style="zoom:67%;" />
 
 <center>图 4-9 升交点赤经2天的变化</center>
 
  
 
-<img src="SpaceSim_userguide_example.assets/clip_image150.png" alt="img"  />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image150.png" alt="img"  />
 
 <center>图 4-10 升交点赤经一个月的变化率</center>
 
@@ -663,7 +663,7 @@ $$
 
 
 
-忽略![img](SpaceSim_userguide_example.assets/clip_image156.png)摄动，令其为0，则公式中的关系可简化为：$1-\frac{5}{4}sin^2i=0$，则轨道倾角等于63.4或116.6度，本次任务取轨道倾角为63.4°；
+忽略![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image156.png)摄动，令其为0，则公式中的关系可简化为：$1-\frac{5}{4}sin^2i=0$，则轨道倾角等于63.4或116.6度，本次任务取轨道倾角为63.4°；
 
 轨道近地点在轨道平面内不改变位置，为了使卫星在北半球的留空时间尽可能的长，取其近地点幅角为270°；
 
@@ -683,9 +683,9 @@ $a=\sqrt[3]{\frac{{\mu}T^2}{4\pi^2}}=26610.2km;$
 
 预期仿真结果应当如图 5-1所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image164.png" alt="图5.1 闪电轨道预期结果1" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image164.png" alt="图5.1 闪电轨道预期结果1" style="zoom:67%;" />
 
-<img src="SpaceSim_userguide_example.assets/clip_image166.png" alt="图5.1 闪电轨道预期结果2" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image166.png" alt="图5.1 闪电轨道预期结果2" style="zoom:67%;" />
 
 <center>图 5-1 闪电轨道预期仿真结果</center>
 
@@ -711,7 +711,7 @@ $a=\sqrt[3]{\frac{{\mu}T^2}{4\pi^2}}=26610.2km;$
 
 注意将轨道模型修改为J2摄动。
 
-<img src="SpaceSim_userguide_example.assets/clip_image168.png" alt="图5.3 闪电卫星参数设置" style="zoom: 80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image168.png" alt="图5.3 闪电卫星参数设置" style="zoom: 80%;" />
 
 <center>图 5-2 闪电轨道卫星参数设置</center>
 
@@ -729,13 +729,13 @@ $a=\sqrt[3]{\frac{{\mu}T^2}{4\pi^2}}=26610.2km;$
 
 动画仿真结果如图 5-3、图 5-4所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image170.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image170.png" alt="img" style="zoom:67%;" />
 
 <center>图 5-3闪电轨道卫星仿真结果3D</center>
 
  
 
-<img src="SpaceSim_userguide_example.assets/clip_image172.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image172.png" alt="img" style="zoom:67%;" />
 
 <center>图 5-4闪电轨道卫星仿真结果2D</center>
 
@@ -818,15 +818,15 @@ $$
 
 海卫-1卫星轨道偏心率很小，是一个近圆轨道。同时，轨道倾角为108º，属于逆行轨道，预期仿真结果应当如图 6-1、图 6-2所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image193.png" alt="图5.2 海卫轨道预期结果1" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image193.png" alt="图5.2 海卫轨道预期结果1" style="zoom:67%;" />
 
-<img src="SpaceSim_userguide_example.assets/clip_image195.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image195.png" alt="img" style="zoom:67%;" />
 
 <center>图 6-1 海卫-1卫星轨道预期结果3D</center>
 
  
 
-<img src="SpaceSim_userguide_example.assets/clip_image197.png" alt="图5.2 海卫轨道预期结果2" style="zoom: 67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image197.png" alt="图5.2 海卫轨道预期结果2" style="zoom: 67%;" />
 
 <center>图 6-2 海卫-1卫星预期结果2D</center>
 
@@ -852,7 +852,7 @@ $$
 
 注意将轨道模型修改为J4摄动。
 
-<img src="SpaceSim_userguide_example.assets/clip_image199.png" alt="图5.4 海卫-1参数设置" style="zoom: 80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image199.png" alt="图5.4 海卫-1参数设置" style="zoom: 80%;" />
 
 <center>图 6-3 海卫-1参数设置</center>
 
@@ -876,19 +876,19 @@ $$
 
 动画仿真结果如图 6-4、图 6-5所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image201.png" alt="图5.7 海卫-1仿真结果3D" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image201.png" alt="图5.7 海卫-1仿真结果3D" style="zoom:67%;" />
 
-<img src="SpaceSim_userguide_example.assets/clip_image203.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image203.png" alt="img" style="zoom:67%;" />
 
 <center>图 6-4 海卫-1仿真结果3D</center>
 
  
 
-<img src="SpaceSim_userguide_example.assets/clip_image205.png" alt="图5.8 海卫-1仿真结果2D" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image205.png" alt="图5.8 海卫-1仿真结果2D" style="zoom:67%;" />
 
 <center>图 6-5 海卫-1仿真结果2D</center>
 
-<img src="SpaceSim_userguide_example.assets/clip_image207.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image207.png" alt="img" style="zoom:67%;" />
 
 <center>图 6-6 海卫-1仿真输出文件</center>
 
@@ -900,7 +900,7 @@ $$
 
 将输出文件的结果导入分析软件中，可得图 6-7所示的结果。
 
-<img src="SpaceSim_userguide_example.assets/clip_image209.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image209.png" alt="img" style="zoom:67%;" />
 
 <center>图 6-7 海卫-1卫星轨道高度变化情况</center>
 
@@ -944,7 +944,7 @@ $$
 
 4颗卫星的幅角存在明显差异，在轨道上分别运行，预期结果应如图 7-1所示，后续更详细的研究需通过其他分析软件完成。
 
-<img src="SpaceSim_userguide_example.assets/clip_image211.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image211.png" alt="img" style="zoom:67%;" />
 
 <center>图 7-1 冻结轨道参数对比预期结果</center>
 
@@ -974,21 +974,21 @@ SAT_1为无漂移冻结轨道，近地点幅角为90度；SAT_2漂移5度，所�
 
 设置完毕时如图 7-2、图 7-3、图 7-4、图 7-5所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image213.png" alt="img" style="zoom: 80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image213.png" alt="img" style="zoom: 80%;" />
 
 <center>图 7-2 SAT_1参数设置</center>
 
-<img src="SpaceSim_userguide_example.assets/clip_image215.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image215.png" alt="img" style="zoom:80%;" />
 
 <center>图 7-3 SAT_2参数设置</center>
 
  
 
-<img src="SpaceSim_userguide_example.assets/clip_image217.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image217.png" alt="img" style="zoom:80%;" />
 
 <center>图 7-4 SAT_3参数设置</center>
 
-<img src="SpaceSim_userguide_example.assets/clip_image219.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image219.png" alt="img" style="zoom:80%;" />
 
 <center>图 7-5 SAT_4参数设置</center>
 
@@ -1012,7 +1012,7 @@ SAT_1为无漂移冻结轨道，近地点幅角为90度；SAT_2漂移5度，所�
 
 4颗卫星的空间分布如图 7-6所示。
 
-![img](SpaceSim_userguide_example.assets/clip_image221.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image221.png)
 
 <center>图 7-6 卫星空间分布</center>
 
@@ -1022,11 +1022,11 @@ SAT_1为无漂移冻结轨道，近地点幅角为90度；SAT_2漂移5度，所�
 
 查看输出文件，如图 7-8所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image223.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image223.png" alt="img" style="zoom:67%;" />
 
 <center>图 7-7 卫星星下点运动轨迹</center>
 
-<img src="SpaceSim_userguide_example.assets/clip_image225.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image225.png" alt="img" style="zoom:67%;" />
 
 <center>图 7-8 输出文件</center>
 
@@ -1036,7 +1036,7 @@ SAT_1为无漂移冻结轨道，近地点幅角为90度；SAT_2漂移5度，所�
 
 将输出文献的结果导入分析软件中，绘制所示的“星下点纬度-轨道高度”分析图样。
 
-<img src="SpaceSim_userguide_example.assets/clip_image227.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image227.png" alt="img" style="zoom:67%;" />
 
 <center>图 7-9星下点纬度-轨道高度图</center>
 
@@ -1076,9 +1076,9 @@ SAT_1为无漂移冻结轨道，近地点幅角为90度；SAT_2漂移5度，所�
 
 其中：
 
-![img](SpaceSim_userguide_example.assets/clip_image235.png)是卫星每一次重复星下点轨迹运行的圈数，此处为31圈
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image235.png)是卫星每一次重复星下点轨迹运行的圈数，此处为31圈
 
-![img](SpaceSim_userguide_example.assets/clip_image237.png)为地球自转圈数
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image237.png)为地球自转圈数
 
 此处通过计算可得，$D=1.9926$day。因为N、D为既约整数，所以取$D=2day$。轨道每天运行圈数为：$\frac{N}{D}=15.5$
 
@@ -1094,7 +1094,7 @@ SAT_1为无漂移冻结轨道，近地点幅角为90度；SAT_2漂移5度，所�
 
 升交点赤经为：$\Omega=\theta_{T_0}+\lambda=1.8634^o+0^o=1.8634^o$;
 
-取近地点幅角、真（平）近点角为![img](SpaceSim_userguide_example.assets/clip_image254.png)；
+取近地点幅角、真（平）近点角为![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image254.png)；
 
  
 
@@ -1102,7 +1102,7 @@ SAT_1为无漂移冻结轨道，近地点幅角为90度；SAT_2漂移5度，所�
 
 回归轨道的星下点轨迹周期性出现重叠现象，即经过一定时间后，星下点轨迹又重新回到原来通过的路线。根据任务要求，回归轨道卫星应当在31圈后回到初始路线，预期结果如图 8-1所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image256.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image256.png" alt="img" style="zoom:67%;" />
 
 <center>图 8-1 预期仿真结果</center>
 
@@ -1128,7 +1128,7 @@ SAT_1为无漂移冻结轨道，近地点幅角为90度；SAT_2漂移5度，所�
 
 将轨道模型修改为J2摄动。
 
-<img src="SpaceSim_userguide_example.assets/clip_image258.png" alt="图6.2 设置卫星参数" style="zoom: 80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image258.png" alt="图6.2 设置卫星参数" style="zoom: 80%;" />
 
 <center>图 8-2 回归轨道卫星参数设置</center>
 
@@ -1136,7 +1136,7 @@ SAT_1为无漂移冻结轨道，近地点幅角为90度；SAT_2漂移5度，所�
 
 在“模型显示参数中”，将轨迹线总点数修改为10000，便于后续轨迹线的观察，如图 8-3所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image260.png" alt="图6.3 修改轨迹点数" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image260.png" alt="图6.3 修改轨迹点数" style="zoom:80%;" />
 
 <center>图 8-3 修改轨迹线点数</center>
 
@@ -1148,7 +1148,7 @@ SAT_1为无漂移冻结轨道，近地点幅角为90度；SAT_2漂移5度，所�
 
 菜单栏点击“模型”，选择“添加船舶”，如图 8-4所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image262.png" alt="图6.4 添加船舶1" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image262.png" alt="图6.4 添加船舶1" style="zoom:80%;" />
 
 <center>图 8-4 通过菜单栏添加船舶</center>
 
@@ -1156,15 +1156,15 @@ SAT_1为无漂移冻结轨道，近地点幅角为90度；SAT_2漂移5度，所�
 
 也可以在左侧的Object Viewer栏，“海/地面目标”标签上右键，选择“添加船舶”，如图 8-5所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image264.png" alt="图6.5 添加船舶2" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image264.png" alt="图6.5 添加船舶2" style="zoom:80%;" />
 
 <center>图 8-5 通过Object Viewer栏添加船舶</center>
 
  
 
-点击![img](SpaceSim_userguide_example.assets/clip_image266.png)图标添加船舶，将时间设置为仿真开始时间，即2022/7/24, 04:00:00，经纬度均设置为0，如图 8-6所示。
+点击![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image266.png)图标添加船舶，将时间设置为仿真开始时间，即2022/7/24, 04:00:00，经纬度均设置为0，如图 8-6所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image268.png" alt="图6.6 船舶设置" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image268.png" alt="图6.6 船舶设置" style="zoom:80%;" />
 
 <center>图 8-6 设置船舶参数</center>
 
@@ -1188,7 +1188,7 @@ SAT_1为无漂移冻结轨道，近地点幅角为90度；SAT_2漂移5度，所�
 
 卫星的星下点轨迹如图 8-7所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image270.png" alt="图6.7 仿真结果" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image270.png" alt="图6.7 仿真结果" style="zoom:80%;" />
 
 <center>图 8-7 回归轨道星下点轨迹</center>
 
@@ -1200,7 +1200,7 @@ SAT_1为无漂移冻结轨道，近地点幅角为90度；SAT_2漂移5度，所�
 
 将输出文件导入分析软件，绘制分析图样，得到图 8-8所示的结果
 
-<img src="SpaceSim_userguide_example.assets/clip_image272.png" alt="img" style="zoom: 50%;" /><img src="SpaceSim_userguide_example.assets/clip_image274.png" alt="img" style="zoom: 50%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image272.png" alt="img" style="zoom: 50%;" /><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image274.png" alt="img" style="zoom: 50%;" />
 
 <center>图 8-8 星下点轨迹变化情况</center>
 
@@ -1248,7 +1248,7 @@ SAT_1为无漂移冻结轨道，近地点幅角为90度；SAT_2漂移5度，所�
 
 仿真结果三维显示效果如所示，展示不同变轨方式之间的差异。
 
-<img src="SpaceSim_userguide_example.assets/clip_image280.png" alt="图7.1 预期仿真结果3D" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image280.png" alt="图7.1 预期仿真结果3D" style="zoom:67%;" />
 
 <center>图 9-1 预期仿真结果3D视图</center>
 
@@ -1272,7 +1272,7 @@ SAT_1为无漂移冻结轨道，近地点幅角为90度；SAT_2漂移5度，所�
 
 设置3颗卫星的轨道参数如下：半长轴16371 km，偏心率0.2，轨道倾角、升交点赤经、近地点幅角、真（平）近点角均为0°，设置完毕如图 9-2所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image282.png" alt="img" style="zoom: 80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image282.png" alt="img" style="zoom: 80%;" />
 
 <center>图 9-2 轨道参数设置</center>
 
@@ -1290,15 +1290,15 @@ SAT_1为无漂移冻结轨道，近地点幅角为90度；SAT_2漂移5度，所�
 
 将执行时间修改为：2017-01-01_17:47:26.045
 
-<img src="SpaceSim_userguide_example.assets/clip_image284.png" alt="图7.3 添加任务命令(1)" style="zoom: 80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image284.png" alt="图7.3 添加任务命令(1)" style="zoom: 80%;" />
 
 <center>图 9-3 指控命令窗口</center>
 
  
 
-点击指令条目后的![img](SpaceSim_userguide_example.assets/clip_image286.png)按钮，进入指控命令表，如图 9-4所示。
+点击指令条目后的![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image286.png)按钮，进入指控命令表，如图 9-4所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image288.png" alt="图7.4 选择命令(1)" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image288.png" alt="图7.4 选择命令(1)" style="zoom:67%;" />
 
 <center>图 9-4打开指控命令表</center>
 
@@ -1306,15 +1306,15 @@ SAT_1为无漂移冻结轨道，近地点幅角为90度；SAT_2漂移5度，所�
 
 双击“速度增量变轨”指令，如图 9-5所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image290.png" alt="图7.5 速度增量变轨" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image290.png" alt="图7.5 速度增量变轨" style="zoom:67%;" />
 
 <center>图 9-5 选择指令</center>
 
  
 
-点击装备名称的![img](SpaceSim_userguide_example.assets/clip_image286.png)按钮，进入装备表，如图 9-6所示。
+点击装备名称的![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image286.png)按钮，进入装备表，如图 9-6所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image292.png" alt="图7.6 选择对象" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image292.png" alt="图7.6 选择对象" style="zoom:67%;" />
 
 <center>图 9-6 进入装备表</center>
 
@@ -1322,7 +1322,7 @@ SAT_1为无漂移冻结轨道，近地点幅角为90度；SAT_2漂移5度，所�
 
 选择SAT_2卫星，如图 9-7所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image294.png" alt="img" style="zoom: 80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image294.png" alt="img" style="zoom: 80%;" />
 
 <center>图 9-7 选择卫星对象</center>
 
@@ -1330,7 +1330,7 @@ SAT_1为无漂移冻结轨道，近地点幅角为90度；SAT_2漂移5度，所�
 
 在“指令参数”中输入“0,500,0”，参数为J2000坐标系下x,y,z方向的速度增量（m/s），逗号用英文逗号，如图 9-8所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image296.png" alt="图7.8 添加命令参数" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image296.png" alt="图7.8 添加命令参数" style="zoom:67%;" />
 
 <center>图 9-8 设置指令参数</center>
 
@@ -1342,7 +1342,7 @@ SAT_1为无漂移冻结轨道，近地点幅角为90度；SAT_2漂移5度，所�
 
 在“窗口”栏下点击“指令窗口显示”，打开指令窗口，如图 9-9所示。用户可在该窗口中查看任务命令，也通过快捷操作添加或删除命令。
 
-<img src="SpaceSim_userguide_example.assets/clip_image298.png" alt="图7.9 打开命令栏" style="zoom: 80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image298.png" alt="图7.9 打开命令栏" style="zoom: 80%;" />
 
 <center>图 9-9 打开指令窗口</center>
 
@@ -1360,7 +1360,7 @@ SAT_1为无漂移冻结轨道，近地点幅角为90度；SAT_2漂移5度，所�
 
 动画仿真结果如图 9-10所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image300.png" alt="img" style="zoom: 67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image300.png" alt="img" style="zoom: 67%;" />
 
 <center>图 9-10 单脉冲变轨仿真结果</center>
 
@@ -1440,13 +1440,13 @@ $$
 
 转移过程如图 10-1所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image324.png" alt="img" style="zoom: 50%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image324.png" alt="img" style="zoom: 50%;" />
 
 <center>图 10-1 霍曼转移过程</center>
 
  
 
-令卫星绕地球旋转一周后开始霍曼转移，则首先需要根据轨道半径![img](SpaceSim_userguide_example.assets/clip_image326.png)计算出轨道周期![img](SpaceSim_userguide_example.assets/clip_image328.png)，进而得到第一次脉冲时刻为$T_0+T_1$ ，速度增量为${\Delta}v_p$ ，$T_0$为系统初始时刻。
+令卫星绕地球旋转一周后开始霍曼转移，则首先需要根据轨道半径![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image326.png)计算出轨道周期![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image328.png)，进而得到第一次脉冲时刻为$T_0+T_1$ ，速度增量为${\Delta}v_p$ ，$T_0$为系统初始时刻。
 
 第二次脉冲时刻为$T_0+T_1+\frac{T}{2}$，速度增量为${\Delta}v_a$。
 
@@ -1456,7 +1456,7 @@ $$
 
 预期仿真结果如图 10-2所示，其中，处于较低轨道的卫星1通过霍曼转移轨道转移至地球同步静止轨道。
 
-<img src="SpaceSim_userguide_example.assets/clip_image340.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image340.png" alt="img" style="zoom:67%;" />
 
 <center>图 10-2 霍曼转移轨道</center>
 
@@ -1478,7 +1478,7 @@ $$
 
 在场景中添加一颗卫星，默认命名为SAT_1，在弹出的参数框内选择理想轨道，修改半长轴为21378 km，其他参数设置为0，具体参数如图 10-3所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image342.png" alt="图8.3 设置卫星1参数" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image342.png" alt="图8.3 设置卫星1参数" style="zoom:67%;" />
 
 <center>图 10-3 设置卫星参数</center>
 
@@ -1488,7 +1488,7 @@ $$
 
 为了显示直观，再添加一颗卫星在目标轨道（地球同步静止轨道）上，默认命名为SAT_2，半长轴设置为42164 km，轨道颜色设置为红色，具体设置如所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image344.png" alt="图8.4 设置卫星2参数" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image344.png" alt="图8.4 设置卫星2参数" style="zoom:67%;" />
 
 <center>图 10-4地球同步静止轨道卫星参数</center>
 
@@ -1496,7 +1496,7 @@ $$
 
 如图 10-5所示，SAT_1和SAT_2两颗卫星星下点一致，只有轨道高度不同。
 
-<img src="SpaceSim_userguide_example.assets/clip_image346.png" alt="图8.5 星下点位置" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image346.png" alt="图8.5 星下点位置" style="zoom:67%;" />
 
 <center>图 10-5 星下点位置对比</center>
 
@@ -1506,7 +1506,7 @@ $$
 
 将执行时间修改为：2017-01-01_20:38:27.265，选择“速度增量变轨”指令，装备对象选择为SAT_1，指令参数设置为“0,656.374,0”，任务名称自动生成，点击“执行”，如图 10-6所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image348.png" alt="图8.6 卫星1任务命令" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image348.png" alt="图8.6 卫星1任务命令" style="zoom:67%;" />
 
 <center>图 10-6 添加任务指令</center>
 
@@ -1524,7 +1524,7 @@ $$
 
 在Object Viewer栏中双击“输出（Output）”，如图 10-7所示，将SAT_1的“惯性系位置速度”和“卫星六要素”输出成文件。
 
-<img src="SpaceSim_userguide_example.assets/clip_image350.png" alt="图8.7 添加输出" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image350.png" alt="图8.7 添加输出" style="zoom:67%;" />
 
 <center>图 10-7 添加输出</center>
 
@@ -1542,7 +1542,7 @@ $$
 
 动画仿真结果如图 10-8所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image352.png" alt="图8.8 仿真结果3D" style="zoom:67%;" /><img src="SpaceSim_userguide_example.assets/clip_image354.png" alt="图8.8 仿真结果2D" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image352.png" alt="图8.8 仿真结果3D" style="zoom:67%;" /><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image354.png" alt="图8.8 仿真结果2D" style="zoom:67%;" />
 
 <center>图 10-8 霍曼变轨仿真结果</center>
 
@@ -1550,7 +1550,7 @@ $$
 
 文件输出结果如图 10-9所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image356.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image356.png" alt="img" style="zoom:67%;" />
 
 <center>图 10-9 文件输出结果</center>
 
@@ -1562,19 +1562,19 @@ $$
 
 将图 10-9所示文件输出结果导入分析软件，绘制图 10-10、图 10-11、图 10-12所示的分析图样。
 
-<img src="SpaceSim_userguide_example.assets/clip_image358.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image358.png" alt="img" style="zoom:67%;" />
 
 <center>图 10-10XY位置坐标图</center>
 
  
 
-<img src="SpaceSim_userguide_example.assets/clip_image360.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image360.png" alt="img" style="zoom:67%;" />
 
 <center>图 10-11 半长轴随时间变化</center>
 
  
 
-<img src="SpaceSim_userguide_example.assets/clip_image362.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image362.png" alt="img" style="zoom:67%;" />
 
 <center>图 10-12 偏心率随时间变化</center>
 
@@ -1606,7 +1606,7 @@ $$
 
 轨道1、轨道2半长轴和偏心率分别为$a_1$，$a_2$，$e_1$，$e_2$，双椭圆公共远地点地心距$r_A$，两圆轨道半径$r_1$，$r_2$，且$r_A>r_2$，如图 11-1所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image380.png" alt="img" style="zoom: 50%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image380.png" alt="img" style="zoom: 50%;" />
 
 <center>图 11-1 双椭圆变轨</center>
 
@@ -1665,7 +1665,7 @@ $$
 
 双椭圆转移过程中，卫星先转移到一个远地点比预定轨道高的过渡椭圆轨道，在到达过渡轨道远地点时，继续采用单脉冲变轨进入新的转移轨道，预计结果如图 11-2所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image394.png" alt="img" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image394.png" alt="img" style="zoom:50%;" />
 
 <center>图 11-2 双椭圆转移预期结果</center>
 
@@ -1711,7 +1711,7 @@ $$
 
 任务命令添加完毕如图 11-3所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image396.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image396.png" alt="img" style="zoom:80%;" />
 
 图 11-3 任务命令添加
 
@@ -1729,7 +1729,7 @@ $$
 
 3D仿真结果如图 11-4所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image398.png" alt="img" style="zoom:50%;" /><img src="SpaceSim_userguide_example.assets/clip_image400.png" alt="img" style="zoom:50%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image398.png" alt="img" style="zoom:50%;" /><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image400.png" alt="img" style="zoom:50%;" /></center>
 
 <center>图 11-4 双椭圆三脉冲变轨仿真结果3D</center>
 
@@ -1778,7 +1778,7 @@ $$
 
 平近点角增加$2\pi$，轨道历元增加$(1-\frac{\theta}{2\pi})T_0$
 
-<img src="SpaceSim_userguide_example.assets/clip_image414.png" alt="img" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image414.png" alt="img" style="zoom:50%;" />
 
 <center>图 12-1 相位调整示意图</center>
 
@@ -1824,7 +1824,7 @@ $$
 
 仿真过程结束后，三颗卫星若夹角为120°，沿着同一轨道运行，则说明对卫星1和卫星2的相位调整成功，预期结果如所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image418.png" alt="img" style="zoom: 67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image418.png" alt="img" style="zoom: 67%;" />
 
 <center>图 12-2 相位调整预期结果</center>
 
@@ -1850,7 +1850,7 @@ $$
 
 参数设置完毕如图 12-3所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image420.png" alt="img" style="zoom: 80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image420.png" alt="img" style="zoom: 80%;" />
 
 <center>图 12-3 卫星参数设置</center>
 
@@ -1886,7 +1886,7 @@ $$
 
 任务命令添加完毕如图 12-4所示。
 
-![img](SpaceSim_userguide_example.assets/clip_image422.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image422.png)
 
 <center>图 12-4 任务命令添加</center>
 
@@ -1904,7 +1904,7 @@ $$
 
 如图 12-5所示，经过相位调整后，三颗卫星夹角为120°，沿着同一轨道运行，说明对卫星1和卫星2的相位调整成功。
 
-<img src="SpaceSim_userguide_example.assets/clip_image424.png" alt="img" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image424.png" alt="img" style="zoom:50%;" />
 
 <center>图 12-5 相位调整仿真结果</center>
 
@@ -1990,7 +1990,7 @@ $$
 
 经过3次速度脉冲变轨后，航天器由原有的近地轨道成功转移到冻原轨道上，其中，第一、二次变轨改变了轨道形状，第三次变轨改变了轨道平面，预期变轨结果如图 13-1所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image440.png" alt="img" style="zoom:50%;" /><img src="SpaceSim_userguide_example.assets/clip_image442.png" alt="img" style="zoom:50%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image440.png" alt="img" style="zoom:50%;" /><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image442.png" alt="img" style="zoom:50%;" /></center>
 
 <center>图 13-1 异面转移预期结果</center>
 
@@ -2040,7 +2040,7 @@ SAT_2位于目标冻原轨道上，为椭圆轨道，轨道半长轴42164 km，�
 
 任务指令添加完毕如图 13-2所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image444.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image444.png" alt="img" style="zoom:80%;" />
 
 <center>图 13-2 任务指令添加</center>
 
@@ -2058,7 +2058,7 @@ SAT_2位于目标冻原轨道上，为椭圆轨道，轨道半长轴42164 km，�
 
 如图 13-3所示，卫星第一次变轨后进入远地点高度与目标轨道相同的转移轨道。第二次变轨为卫星在转移轨道运行半个周期后，在轨道远地点处对卫星施加速度脉冲从而转移改变卫星近地点高度。从远地点运行半周期后，进行第三次变轨，在转移轨道与目标轨道的交点处施加速度脉冲，改变轨道倾角。
 
-<img src="SpaceSim_userguide_example.assets/clip_image446.png" alt="img" style="zoom:50%;" /><img src="SpaceSim_userguide_example.assets/clip_image448.png" alt="img" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image446.png" alt="img" style="zoom:50%;" /><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image448.png" alt="img" style="zoom:50%;" />
 
 <center>图 13-3 异面转移仿真结果</center>
 
@@ -2092,7 +2092,7 @@ SAT_2位于目标冻原轨道上，为椭圆轨道，轨道半长轴42164 km，�
 
 在转移时间适当的情况下，卫星应当能够实现平滑和准确的变轨，如图 14-1所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image450.png" alt="img" style="zoom:50%;" /><img src="SpaceSim_userguide_example.assets/clip_image452.png" alt="img" style="zoom:50%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image450.png" alt="img" style="zoom:50%;" /><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image452.png" alt="img" style="zoom:50%;" /></center>
 
 <center>图 14-1 兰伯特变轨预期结果</center>
 
@@ -2124,7 +2124,7 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 在菜单栏点击“计算分析”，选择“轨道变轨计算”，进入轨道变轨计算窗口，如图 14-2所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image454.png" alt="图14-2 打开变轨计算窗口" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image454.png" alt="图14-2 打开变轨计算窗口" style="zoom:80%;" />
 
 <center>图 14-2 打开变轨计算窗口</center>
 
@@ -2132,7 +2132,7 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 轨道变轨计算窗口的参数分布如图 14-3所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image456.png" alt="图14-3 变轨计算窗口参数分布" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image456.png" alt="图14-3 变轨计算窗口参数分布" style="zoom:67%;" />
 
 <center>图 14-3 轨道变轨计算窗口</center>
 
@@ -2162,13 +2162,13 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 设置好变轨参数后，点击“计算”按钮，SpaceSim将自行计算得到合适的变轨参数。选中计算结果，点击“添加指令”，就可将变轨指令自动添加至指令窗口，如图 14-4、图 14-5所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image458.png" alt="图14-4 变轨计算窗口计算" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image458.png" alt="图14-4 变轨计算窗口计算" style="zoom:67%;" />
 
 <center>图 14-4 添加指令</center>
 
  
 
-<img src="SpaceSim_userguide_example.assets/clip_image460.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image460.png" alt="img" style="zoom:80%;" />
 
 <center>图 14-5 指令窗口</center>
 
@@ -2186,19 +2186,19 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 兰伯特变轨结果如图 14-6、图 14-7、图 14-8所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image462.png" alt="img" style="zoom:67%;" /><img src="SpaceSim_userguide_example.assets/clip_image464.png" alt="img" style="zoom:67%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image462.png" alt="img" style="zoom:67%;" /><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image464.png" alt="img" style="zoom:67%;" /></center>
 
 <center>图 14-6 兰伯特变轨结果（持续时间2500s）</center>
 
  
 
-<img src="SpaceSim_userguide_example.assets/clip_image466.png" alt="img" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image466.png" alt="img" style="zoom:50%;" />
 
 <center>图 14-7 兰伯特变轨结果（持续时间1500s）</center>
 
  
 
-<img src="SpaceSim_userguide_example.assets/clip_image468.png" alt="img" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image468.png" alt="img" style="zoom:50%;" />
 
 <center>图 14-8 兰伯特变轨结果（持续时间3500s）</center>
 
@@ -2226,11 +2226,11 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 在本次仿真中，卫星首先通过姿态机动从对地定向转为对日定向模式，此时卫星保持对日指向，如图 15-1所示。随后，卫星再次通过姿态机动，从对日定向转变为对地定向模式，结果如图 15-2所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image470.png" alt="img" style="zoom: 67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image470.png" alt="img" style="zoom: 67%;" />
 
 <center>图 15-1 卫星对日定向预期结果 </center>
 
-<img src="SpaceSim_userguide_example.assets/clip_image472.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image472.png" alt="img" style="zoom:67%;" />
 
 <center>图 15-2 卫星对地定向预期结果</center>
 
@@ -2256,13 +2256,13 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 在卫星SAT_1上右键选择“添加天线”，如图 15-3所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image474.png" alt="图15-3 添加天线" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image474.png" alt="图15-3 添加天线" style="zoom:80%;" />
 
 <center>图 15-3 为卫星添加天线 </center>
 
 进入天线设置界面，为了使天线波束更加明显，可以修改波束的锥角为10°左右，如图 15-4所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image476.png" alt="图15-4 卫星天线设置" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image476.png" alt="图15-4 卫星天线设置" style="zoom:80%;" />
 
 <center>图 15-4 天线设置</center>
 
@@ -2278,7 +2278,7 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 任务指令添加完毕如图 15-5所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image478.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image478.png" alt="img" style="zoom:80%;" />
 
 <center>图 15-5 任务指令添加</center>
 
@@ -2296,7 +2296,7 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 仿真开始20 min后，卫星顺利从对地定向转为对日定向，此时卫星的天线波束指向太阳，如图 15-6所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image480.png" alt="img" style="zoom: 50%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image480.png" alt="img" style="zoom: 50%;" />
 
 <center>图 15-6 卫星对日定向</center>
 
@@ -2304,7 +2304,7 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 随后30 min，卫星再次执行姿态机动，从对日定向转为对地定向，卫星天线波束也随之指向地心，如图 15-7所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image482.png" alt="img" style="zoom: 50%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image482.png" alt="img" style="zoom: 50%;" />
 
 <center>图 15-7 卫星对地定向</center>
 
@@ -2336,13 +2336,13 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 原子氧通量取决于姿态、轨道高度、暴露时间和太阳活动。故在仿真中，三颗轨道高度不同的卫星，其输出的轨迹云图和瞬时密度曲线应当有明显的差异，如图 16-1、图 16-2所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image484.png" alt="img" style="zoom:80%;" /><img src="SpaceSim_userguide_example.assets/clip_image486.png" alt="img" style="zoom:80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image484.png" alt="img" style="zoom:80%;" /><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image486.png" alt="img" style="zoom:80%;" /></center>
 
 <center>图 16-1 轨迹云图预期仿真结果</center>
 
  
 
-<img src="SpaceSim_userguide_example.assets/clip_image488.png" alt="img" style="zoom: 80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image488.png" alt="img" style="zoom: 80%;" />
 
 <center>图 16-2 瞬时密度曲线预期结果</center>
 
@@ -2374,13 +2374,13 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 在工具栏点击“计算空间环境”，此时，菜单栏会发生变化，增加关于空间环境等方面的相关设置，如图 16-3、图 16-4所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image490.png" alt="图15-3 计算空间环境" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image490.png" alt="图15-3 计算空间环境" style="zoom:67%;" />
 
 <center>图 16-3 计算空间环境</center>
 
  
 
-<img src="SpaceSim_userguide_example.assets/clip_image492.png" alt="图15-4 菜单栏变化" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image492.png" alt="图15-4 菜单栏变化" style="zoom:67%;" />
 
 <center>图 16-4 扩展菜单栏</center>
 
@@ -2388,7 +2388,7 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 在菜单栏中点击“空间大气环境”，选中“原子氧等大气模型”，进入大气模型设置，如图 16-5所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image494.png" alt="图16-4 原子氧大气模型" style="zoom: 80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image494.png" alt="图16-4 原子氧大气模型" style="zoom: 80%;" />
 
 <center>图 16-5进入大气模型设置</center>
 
@@ -2398,7 +2398,7 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 点击“保存”将设置的空间环境添加到场景中。
 
-<img src="SpaceSim_userguide_example.assets/clip_image496.png" alt="图16-5 大气模型设置" style="zoom: 80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image496.png" alt="图16-5 大气模型设置" style="zoom: 80%;" />
 
 <center>图 16-6 大气模型详细设置</center>
 
@@ -2408,7 +2408,7 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 在大气模型设置中，勾选“轨道云图”，如图 16-7所示，点击设置进入轨道云图的输出设置界面。
 
-<img src="SpaceSim_userguide_example.assets/clip_image497.png" alt="图16-6 输出设置" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image497.png" alt="图16-6 输出设置" style="zoom:80%;" />
 
 <center>图 16-7 轨道云图输出设置</center>
 
@@ -2416,7 +2416,7 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 在轨道云图的输出设置界面，将3颗卫星的氧原子数量密度添加到轨道云图的输出中，点击“保存”，如图 16-8所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image499.png" alt="图16-7 输出详细设置" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image499.png" alt="图16-7 输出详细设置" style="zoom:80%;" />
 
 <center>图 16-8 轨道云图输出详细设置</center>
 
@@ -2426,7 +2426,7 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 在图 16-7所示的输出设置处，勾选“瞬时密度曲线”，进入瞬时密度曲线输出界面，如图 16-9所示。
 
-![图16-9 瞬时密度曲线输出](SpaceSim_userguide_example.assets/clip_image501.png)
+![图16-9 瞬时密度曲线输出](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image501.png)
 
 <center>图 16-9 瞬时密度曲线输出</center>
 
@@ -2440,7 +2440,7 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 点击“确定”保存。
 
-<img src="SpaceSim_userguide_example.assets/clip_image503.png" alt="图16-10 曲线显示设置" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image503.png" alt="图16-10 曲线显示设置" style="zoom:80%;" />
 
 <center>图 16-10 曲线显示设置</center>
 
@@ -2460,11 +2460,11 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 轨迹云图输出结果如图 16-11、图 16-12所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image505.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image505.png" alt="img" style="zoom:80%;" />
 
 <center>图 16-11 轨迹云图3D</center>
 
-<img src="SpaceSim_userguide_example.assets/clip_image507.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image507.png" alt="img" style="zoom:80%;" />
 
 <center>图 16-12 轨迹云图2D</center>
 
@@ -2472,7 +2472,7 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 瞬时密度曲线输出结果如图 16-13所示。
 
-![img](SpaceSim_userguide_example.assets/clip_image509.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image509.png)
 
 <center>图 16-13 瞬时密度曲线</center>
 
@@ -2512,7 +2512,7 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 更加精确的结果待后续具体仿真。
 
-<img src="SpaceSim_userguide_example.assets/clip_image511.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image511.png" alt="img" style="zoom:67%;" />
 
 <center>图 17-1 不同倾角的轨道</center>
 
@@ -2570,7 +2570,7 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 其中绿色曲线：SAT_1，红色曲线：SAT_2，黄色曲线：SAT_3
 
-<img src="SpaceSim_userguide_example.assets/clip_image513.png" alt="img" style="zoom: 80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image513.png" alt="img" style="zoom: 80%;" />
 
 <center>图 17-2 瞬时密度曲线</center>
 
@@ -2630,7 +2630,7 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 在工具栏勾选“计算空间环境”后，在菜单栏点击“空间辐射环境”，选中“地球磁场”，进入地球磁场设置，如图 18-1所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image515.png" alt="图18-1 地球磁场设置" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image515.png" alt="图18-1 地球磁场设置" style="zoom:80%;" />
 
 <center>图 18-1 进入地球磁场设置</center>
 
@@ -2640,7 +2640,7 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 设置完毕如图 18-2所示，点击“保存”。
 
-<img src="SpaceSim_userguide_example.assets/clip_image517.png" alt="图18-2 地球磁场详细设置" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image517.png" alt="图18-2 地球磁场详细设置" style="zoom:67%;" />
 
 <center>图 18-2 地球磁场详细设置</center>
 
@@ -2650,13 +2650,13 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 在设置界面下方的输出栏中，勾选“瞬时通量”，输出瞬时通量曲线图，如图 18-3、图 18-4所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image519.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image519.png" alt="img" style="zoom:80%;" />
 
 <center>图 18-3 输出瞬时通量</center>
 
  
 
-![img](SpaceSim_userguide_example.assets/clip_image521.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image521.png)
 
 <center>图 18-4 瞬时曲线图</center>
 
@@ -2664,7 +2664,7 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 在图 18-4所示的界面点击“设置”，进入曲线显示设置，将模型中的“JC1960_Blocal”（即磁感应强度）添加至输出，点击“确定”，设置完成如图 18-5所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image523.png" alt="图18-5 曲线显示设置" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image523.png" alt="图18-5 曲线显示设置" style="zoom:80%;" />
 
 <center>图 18-5 曲线显示设置</center>
 
@@ -2682,13 +2682,13 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 卫星的运行情况及对应的瞬时磁通量如图 18-6、图 18-7所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image525.png" alt="img" style="zoom:67%;" /><img src="SpaceSim_userguide_example.assets/clip_image527.png" alt="img" style="zoom:80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image525.png" alt="img" style="zoom:67%;" /><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image527.png" alt="img" style="zoom:80%;" /></center>
 
 <center>图 18-6 卫星赤道上空瞬时磁通</center>
 
  
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image529.png" alt="img" style="zoom:50%;" /><img src="SpaceSim_userguide_example.assets/clip_image531.png" alt="img" style="zoom:67%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image529.png" alt="img" style="zoom:50%;" /><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image531.png" alt="img" style="zoom:67%;" /></center>
 
 <center>图 18-7 卫星两极上空瞬时磁通</center>
 
@@ -2726,7 +2726,7 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 预期辐射分布如图 19-1所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image533.png" alt="img" style="zoom:80%;" /><img src="SpaceSim_userguide_example.assets/clip_image535.png" alt="img" style="zoom:80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image533.png" alt="img" style="zoom:80%;" /><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image535.png" alt="img" style="zoom:80%;" /></center>
 
 <center>图 19-1辐射预期分布情况</center>
 
@@ -2756,7 +2756,7 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 在工具栏勾选“计算空间环境”后，在菜单栏点击“空间辐射环境”，选中“地球辐射带”，进入地球辐射带设置，如图 19-2所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image537.png" alt="图19-2 地球辐射带设置" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image537.png" alt="图19-2 地球辐射带设置" style="zoom:80%;" />
 
 <center>图 19-2进入地球辐射带设置</center>
 
@@ -2766,7 +2766,7 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 设置完毕如图 19-3所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image539.png" alt="图19-2 地球辐射带详细设置" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image539.png" alt="图19-2 地球辐射带详细设置" style="zoom:80%;" />
 
 <center>图 19-3 地球辐射带详细设置</center>
 
@@ -2780,11 +2780,11 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 具体流程如图 19-4、图 19-5所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image541.png" alt="图19-3 沿迹云图设置" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image541.png" alt="图19-3 沿迹云图设置" style="zoom:80%;" />
 
 <center>图 19-4 输出沿迹云图 </center>
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image543.png" alt="图19-5 沿迹云图详细设置" style="zoom:80%;" /><img src="SpaceSim_userguide_example.assets/clip_image545.png" alt="图19-5 沿迹云图详细设置2" style="zoom:80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image543.png" alt="图19-5 沿迹云图详细设置" style="zoom:80%;" /><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image545.png" alt="图19-5 沿迹云图详细设置2" style="zoom:80%;" /></center>
 
 <center>图 19-5 添加云图输出</center>
 
@@ -2794,7 +2794,7 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 在图 19-4所示的输出设置处，勾选“瞬时通量”，进入瞬时通量曲线输出界面，如图 19-6所示，点击“设置”进入显示设置。
 
-![img](SpaceSim_userguide_example.assets/clip_image547.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image547.png)
 
 <center>图 19-6 瞬时通量曲线图</center>
 
@@ -2802,7 +2802,7 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 在曲线显示设置中，将SAT_1和SAT_2下方0.04 Mev能级电子添加至输出中，如图 19-7所示，为便于区分，可将输出曲线设置成不同颜色。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image549.png" alt="img" style="zoom:80%;" /><img src="SpaceSim_userguide_example.assets/clip_image551.png" alt="img" style="zoom:80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image549.png" alt="img" style="zoom:80%;" /><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image551.png" alt="img" style="zoom:80%;" /></center>
 
 <center>图 19-7 曲线显示设置</center>
 
@@ -2826,13 +2826,13 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 仿真结束后，系统输出的轨迹云图如图 19-8、图 19-9所示
 
-<img src="SpaceSim_userguide_example.assets/clip_image553.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image553.png" alt="img" style="zoom:80%;" />
 
-<img src="SpaceSim_userguide_example.assets/clip_image555.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image555.png" alt="img" style="zoom:80%;" />
 
 <center>图 19-8 轨迹云图3D</center>
 
-<img src="SpaceSim_userguide_example.assets/clip_image557.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image557.png" alt="img" style="zoom:80%;" />
 
 <center>图 19-9 轨迹云图2D</center>
 
@@ -2840,7 +2840,7 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 瞬时通量曲线如图 19-10所示
 
-<img src="SpaceSim_userguide_example.assets/clip_image559.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image559.png" alt="img" style="zoom:80%;" />
 
 <center>图 19-10 瞬时通量曲线</center>
 
@@ -2852,9 +2852,9 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 如图 19-11所示，在SAT_1（大椭圆轨道）位于近地点附近时，其瞬时通量迅速降低至极低值，与SAT_2（近地圆轨道）基本保持一致。 
 
-<img src="SpaceSim_userguide_example.assets/clip_image561.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image561.png" alt="img" style="zoom:67%;" />
 
-![img](SpaceSim_userguide_example.assets/clip_image563.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image563.png)
 
 <center>图 19-11 近地点附近瞬时通量</center>
 
@@ -2862,9 +2862,9 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 当SAT_2运行至南大西洋异常区时，其瞬时电子通量会达到最高点，如图 19-12所示。当卫星离开该区域时，瞬时通量再次下降至平均水平。
 
-<img src="SpaceSim_userguide_example.assets/clip_image565.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image565.png" alt="img" style="zoom:67%;" />
 
-![img](SpaceSim_userguide_example.assets/clip_image567.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image567.png)
 
 <center>图 19-12 南大西洋异常区</center>
 
@@ -2894,7 +2894,7 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 添加完空间碎片后，场景应当如图 20-1所示，在此空间环境中仿真卫星的运行情况。
 
-<img src="SpaceSim_userguide_example.assets/clip_image569.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image569.png" alt="img" style="zoom:80%;" />
 
 <center>图 20-1 空间碎片环境</center>
 
@@ -2924,7 +2924,7 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 在SAT_1对象上右键，选择“添加多模推力器”，如图 20-2所示，进入多模推力器设置界面。
 
-<img src="SpaceSim_userguide_example.assets/clip_image571.png" alt="图20-2 添加多模推力器" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image571.png" alt="图20-2 添加多模推力器" style="zoom:80%;" />
 
 <center>图 20-2 添加多模推力器</center>
 
@@ -2932,7 +2932,7 @@ SAT_2轨道半径9000 km，偏心率0（圆轨道），轨道倾角33°，其他
 
 在多模推力器设置界面，勾选“是否启用碰撞警告分析”，点击“保存”，如图 20-3所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image573.png" alt="图20-3 多模推力器设置" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image573.png" alt="图20-3 多模推力器设置" style="zoom:80%;" />
 
 <center>图 20-3 多模推力器设置</center>
 
@@ -2946,7 +2946,7 @@ SGP系列模型是由北美防空联合司令部（NORAD）公布的轨道模型
 
 进入网站，点击“Last 30 Days' Launches”，如图 20-4所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image575.png" alt="图20-4 tle文件下载" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image575.png" alt="图20-4 tle文件下载" style="zoom:80%;" />
 
 <center>图 20-4 选择空间碎片模型</center>
 
@@ -2954,7 +2954,7 @@ SGP系列模型是由北美防空联合司令部（NORAD）公布的轨道模型
 
 进入空间碎片模型参数界面，如图 20-5所示，将网页中参数全部复制，新建txt文本文件，将参数复制到文本文件中保存，并将扩展名保存为“.tle”。
 
-![img](SpaceSim_userguide_example.assets/clip_image577.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image577.png)
 
 <center>图 20-5 空间碎片SGP4轨道参数</center>
 
@@ -2962,7 +2962,7 @@ SGP系列模型是由北美防空联合司令部（NORAD）公布的轨道模型
 
 返回SapceSim中，在“卫星（SAT）”选项上右键，选择“文件批量添加卫星”，如图 20-6所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image579.png" alt="图20-6 批量添加空间碎片" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image579.png" alt="图20-6 批量添加空间碎片" style="zoom:80%;" />
 
 <center>图 20-6 文件批量添加文星</center>
 
@@ -2970,13 +2970,13 @@ SGP系列模型是由北美防空联合司令部（NORAD）公布的轨道模型
 
 在批量添加界面，点击“加载文件”后，选择之前保存的tle文件，如图 20-7、图 20-8所示，文件选择完毕后点击“批量添加”，软件会根据所选文件自行生成空间碎片。
 
-<img src="SpaceSim_userguide_example.assets/clip_image581.png" alt="图20-7 选择文件" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image581.png" alt="图20-7 选择文件" style="zoom:80%;" />
 
 <center>图 20-7 加载空间碎片数据文件</center>
 
  
 
-<img src="SpaceSim_userguide_example.assets/clip_image583.png" alt="图20-7 选择文件2" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image583.png" alt="图20-7 选择文件2" style="zoom:80%;" />
 
 <center>图 20-8 选择文件</center>
 
@@ -2986,7 +2986,7 @@ SGP系列模型是由北美防空联合司令部（NORAD）公布的轨道模型
 
 在输出文件设置界面，点击多模推力器“ThrusterDM_1”，将“碰撞预警卫星”和“当前距离”添加至输出，点击“OK”完成添加，如图 20-9所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image585.png" alt="图20-8 添加输出" style="zoom: 67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image585.png" alt="图20-8 添加输出" style="zoom: 67%;" />
 
 <center>图 20-9 输出文件设置</center>
 
@@ -3004,7 +3004,7 @@ SGP系列模型是由北美防空联合司令部（NORAD）公布的轨道模型
 
 在仿真过程中，卫星的运行情况如图 20-10所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image587.png" alt="img" style="zoom:80%;" /><img src="SpaceSim_userguide_example.assets/clip_image589.png" alt="img" style="zoom:80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image587.png" alt="img" style="zoom:80%;" /><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image589.png" alt="img" style="zoom:80%;" /></center>
 
 <center>图 20-10 仿真结果展示</center>
 
@@ -3012,7 +3012,7 @@ SGP系列模型是由北美防空联合司令部（NORAD）公布的轨道模型
 
 输出文件如图 20-11所示。
 
-![img](SpaceSim_userguide_example.assets/clip_image591.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image591.png)
 
 <center>图 20-11 输出文件</center>
 
@@ -3046,7 +3046,7 @@ SGP系列模型是由北美防空联合司令部（NORAD）公布的轨道模型
 
 具体数据待后续仿真。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image593.png" alt="img" style="zoom:50%;" /><img src="SpaceSim_userguide_example.assets/clip_image595.png" alt="img" style="zoom:50%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image593.png" alt="img" style="zoom:50%;" /><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image595.png" alt="img" style="zoom:50%;" /></center>
 
 <center>图 21-1 卫星相对关系</center>
 
@@ -3076,7 +3076,7 @@ SGP系列模型是由北美防空联合司令部（NORAD）公布的轨道模型
 
 在SAT_1对象上右键，选择“添加多模推力器”，进入多模推力器设置界面，勾选“是否启用碰撞警告分析”，点击“保存”（同案例20），添加完毕如图 21-2所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image597.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image597.png" alt="img" style="zoom:80%;" />
 
 <center>图 21-2 启用碰撞警告分析</center>
 
@@ -3086,7 +3086,7 @@ SGP系列模型是由北美防空联合司令部（NORAD）公布的轨道模型
 
 在输出文件设置界面，点击多模推力器“ThrusterDM_1”，将“碰撞预警卫星”、“碰撞概率”和“当前距离”添加至输出，点击“OK”完成添加，如图 21-3所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image599.png" alt="图21-2 输出文件设置" style="zoom: 80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image599.png" alt="图21-2 输出文件设置" style="zoom: 80%;" />
 
 <center>图 21-3 输出文件设置</center>
 
@@ -3104,7 +3104,7 @@ SGP系列模型是由北美防空联合司令部（NORAD）公布的轨道模型
 
 仿真过程中，2颗卫星的相对关系如图 21-4所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image601.png" alt="img" style="zoom:67%;" /><img src="SpaceSim_userguide_example.assets/clip_image603.png" alt="img" style="zoom:67%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image601.png" alt="img" style="zoom:67%;" /><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image603.png" alt="img" style="zoom:67%;" /></center>
 
 <center>图 21-4 卫星相对关系</center>
 
@@ -3112,7 +3112,7 @@ SGP系列模型是由北美防空联合司令部（NORAD）公布的轨道模型
 
 输出文件如图 21-5所示。
 
-![img](SpaceSim_userguide_example.assets/clip_image605.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image605.png)
 
 <center>图 21-5 输出文件</center>
 
@@ -3122,7 +3122,7 @@ SGP系列模型是由北美防空联合司令部（NORAD）公布的轨道模型
 
 将图 21-5所示的输出数据导入分析软件，并绘制分析图样，可得图 21-6所示的结果。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image607.png" alt="img" style="zoom: 50%;" /><img src="SpaceSim_userguide_example.assets/clip_image609.png" alt="img" style="zoom: 50%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image607.png" alt="img" style="zoom: 50%;" /><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image609.png" alt="img" style="zoom: 50%;" /></center>
 
 <center>图 21-6 输出数据分析</center>
 
@@ -3152,7 +3152,7 @@ SGP系列模型是由北美防空联合司令部（NORAD）公布的轨道模型
 
 仿真中，导弹从中国境内飞行至美国境内完成打击，经SpaceSim内部完成弹道的计算，其弹道示意图如图 22-1所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image611.png" alt="img" style="zoom:50%;" /><img src="SpaceSim_userguide_example.assets/clip_image613.png" alt="img" style="zoom:50%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image611.png" alt="img" style="zoom:50%;" /><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image613.png" alt="img" style="zoom:50%;" /></center>
 
 <center>图 22-1 导弹预期弹道</center>
 
@@ -3168,7 +3168,7 @@ SGP系列模型是由北美防空联合司令部（NORAD）公布的轨道模型
 
 打开SpaceSim软件，点击“新建场景”，输入场景名称，时间参数保持默认，仿真步长调整为1秒，点击“OK”完成，如图 22-2所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image615.png" alt="img" style="zoom: 80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image615.png" alt="img" style="zoom: 80%;" />
 
 <center>图 22-2 新建场景</center>
 
@@ -3178,13 +3178,13 @@ SGP系列模型是由北美防空联合司令部（NORAD）公布的轨道模型
 
 菜单栏点击“模型”，选择“添加导弹”，如图 22-3所示，在弹出的对话框内导弹类型选择“快速交会服务”，其他参数保持默认，如图 22-4所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image617.png" alt="图22-3 添加导弹" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image617.png" alt="图22-3 添加导弹" style="zoom:80%;" />
 
 <center>图 22-3 添加导弹</center>
 
  
 
-<img src="SpaceSim_userguide_example.assets/clip_image619.png" alt="图22-4 快速交会服务" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image619.png" alt="图22-4 快速交会服务" style="zoom:67%;" />
 
 <center>图 22-4 选择导弹类型</center>
 
@@ -3194,7 +3194,7 @@ SGP系列模型是由北美防空联合司令部（NORAD）公布的轨道模型
 
 导弹默认命名为DAODAN_1。
 
-<img src="SpaceSim_userguide_example.assets/clip_image621.png" alt="图22-5 导弹参数设置" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image621.png" alt="图22-5 导弹参数设置" style="zoom:80%;" />
 
 <center>图 22-5 导弹参数设置</center>
 
@@ -3216,7 +3216,7 @@ SGP系列模型是由北美防空联合司令部（NORAD）公布的轨道模型
 
 将执行时间修改为仿真开始时间，在指令栏中选择“导弹发射指令”，装备对象选择为DAODAN_1，指令参数设置为“-77,38.9”，任务名称自动生成，点击“执行”完成任务指令添加，如图 22-6所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image623.png" alt="图22-6 指令添加" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image623.png" alt="图22-6 指令添加" style="zoom:80%;" />
 
 <center>图 22-6 任务指令添加</center>
 
@@ -3226,7 +3226,7 @@ SGP系列模型是由北美防空联合司令部（NORAD）公布的轨道模型
 
 为后续分析，在仿真前可增加输出项，将DAODAN_1的“经度”、“纬度”、“高度”和“速度大小”添加至输出，添加完成如图 22-7所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image625.png" alt="图22-7 添加输出" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image625.png" alt="图22-7 添加输出" style="zoom:80%;" />
 
 <center>图 22-7 输出文件设置</center>
 
@@ -3244,11 +3244,11 @@ SGP系列模型是由北美防空联合司令部（NORAD）公布的轨道模型
 
 仿真过程中，导弹的弹道如图 22-8所示，飞行过程如图 22-9所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image627.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image627.png" alt="img" style="zoom:80%;" />
 
 <center>图 22-8 导弹弹道</center>
 
-<img src="SpaceSim_userguide_example.assets/clip_image629.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image629.png" alt="img" style="zoom:80%;" />
 
 <center>图 22-9 导弹飞行中</center>
 
@@ -3256,7 +3256,7 @@ SGP系列模型是由北美防空联合司令部（NORAD）公布的轨道模型
 
 输出文件如图 22-10所示。
 
-![img](SpaceSim_userguide_example.assets/clip_image631.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image631.png)
 
 <center>图 22-10 输出文件</center>
 
@@ -3290,7 +3290,7 @@ SGP系列模型是由北美防空联合司令部（NORAD）公布的轨道模型
 
 仿真中，导弹从中国境内发射，经过弹道计算完成对指定航天器的打击任务，理想效果图如图 23-1所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image633.png" alt="img" style="zoom:80%;" /><img src="SpaceSim_userguide_example.assets/clip_image635.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image633.png" alt="img" style="zoom:80%;" /><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image635.png" alt="img" style="zoom:80%;" />
 
 <center>图 23-1 反卫仿真预期结果</center>
 
@@ -3322,7 +3322,7 @@ SAT_1轨道参数如下：半长轴7378.3 km，偏心率0，轨道倾角40°，�
 
 进入导弹设置，在“参数选择”界面，选择导弹类型为“快速交会服务”，其他参数均保持默认，如图 23-2所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image637.png" alt="图23-2 导弹参数设置" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image637.png" alt="图23-2 导弹参数设置" style="zoom:80%;" />
 
 <center>图 23-2选择导弹类型</center>
 
@@ -3330,7 +3330,7 @@ SAT_1轨道参数如下：半长轴7378.3 km，偏心率0，轨道倾角40°，�
 
 点击左上角“火箭”选项，进入导弹参数设置。根据任务分别选择火箭级数、任务类型，填写载荷质量、发动机平均推力、工作时间、点火质量、燃料加注量，并设置发射点经纬度、高度以及初速度，设置完成如图 23-3所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image639.png" alt="图23-3 导弹参数设置2" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image639.png" alt="图23-3 导弹参数设置2" style="zoom:80%;" />
 
 <center>图 23-3 导弹参数设置</center>
 
@@ -3342,7 +3342,7 @@ SAT_1轨道参数如下：半长轴7378.3 km，偏心率0，轨道倾角40°，�
 
 将执行时间修改为仿真开始时间，在指令栏中选择“动能弹发射指令”，装备对象选择为DAODAN_1，指令参数设置为“SAT_1”（即目标航天器），任务名称自动生成，点击“执行”完成任务指令添加，如图 23-4所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image641.png" alt="图23-4 添加任务命令" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image641.png" alt="图23-4 添加任务命令" style="zoom:80%;" />
 
 <center>图 23-4 添加任务命令</center>
 
@@ -3360,11 +3360,11 @@ SAT_1轨道参数如下：半长轴7378.3 km，偏心率0，轨道倾角40°，�
 
 仿真过程中，导弹的弹道如图 23-5所示，飞行过程如图 23-6所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image643.png" alt="img" style="zoom: 67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image643.png" alt="img" style="zoom: 67%;" />
 
 <center>图 23-5 导弹弹道展示 </center>
 
-<img src="SpaceSim_userguide_example.assets/clip_image645.png" alt="img" style="zoom: 67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image645.png" alt="img" style="zoom: 67%;" />
 
 <center>图 23-6 导弹飞行过程</center>
 
@@ -3396,13 +3396,13 @@ SAT_1轨道参数如下：半长轴7378.3 km，偏心率0，轨道倾角40°，�
 
 仿真中，SpaceSim可以自行计算运载火箭的弹道，以保证发射的顺利进行。理想效果图如图 24-1、图 24-2所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image647.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image647.png" alt="img" style="zoom:80%;" />
 
 <center>图 24-1 预期发射结果</center>
 
  
 
-<img src="SpaceSim_userguide_example.assets/clip_image649.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image649.png" alt="img" style="zoom:80%;" />
 
 <center>图 24-2 火箭追踪视角</center>
 
@@ -3426,7 +3426,7 @@ SAT_1轨道参数如下：半长轴7378.3 km，偏心率0，轨道倾角40°，�
 
 点击左上角“火箭”选项，进入导弹参数设置。根据任务分别选择火箭级数、任务类型，填写载荷质量、发动机平均推力、工作时间、点火质量、燃料加注量，并设置发射点经纬度、高度以及初速度，设置完成如图 24-3所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image651.png" alt="图24-3 导弹参数设置" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image651.png" alt="图24-3 导弹参数设置" style="zoom:80%;" />
 
 <center>图 24-3 火箭参数设置</center>
 
@@ -3438,7 +3438,7 @@ SAT_1轨道参数如下：半长轴7378.3 km，偏心率0，轨道倾角40°，�
 
 将执行时间修改为仿真开始时间，在指令栏中选择“运载火箭发射指令”，装备对象选择为DAODAN_1，指令参数设置为“500,98”，任务名称自动生成，点击“执行”完成任务指令添加，如图 24-4所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image653.png" alt="图24-4 任务指令添加" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image653.png" alt="图24-4 任务指令添加" style="zoom:80%;" />
 
 <center>图 24-4 任务指令添加</center>
 
@@ -3456,11 +3456,11 @@ SAT_1轨道参数如下：半长轴7378.3 km，偏心率0，轨道倾角40°，�
 
 在实验过程中，火箭执行发射指令后，将在合适的时机发射并自行调整推进过程，将航天器送入目标轨道，其轨道和飞行示意图如图 24-5、图 24-6所示。
 
-![img](SpaceSim_userguide_example.assets/clip_image655.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image655.png)
 
 <center>图 24-5 火箭运载轨道</center>
 
-![img](SpaceSim_userguide_example.assets/clip_image657.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image657.png)
 
 <center>图 24-6 火箭飞行过程</center>
 
@@ -3509,11 +3509,11 @@ SAT_1轨道参数如下：半长轴7378.3 km，偏心率0，轨道倾角40°，�
 
 在卫星运行过程中，天线的覆盖因轨道高度、天线类型等因素而出现变化，预期实验结果如图 25-1、图 25-2所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image659.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image659.png" alt="img" style="zoom:67%;" />
 
 <center>图 25-1 预期结果3D</center>
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image661.png" alt="img" style="zoom: 67%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image661.png" alt="img" style="zoom: 67%;" /></center>
 
 <center>图 25-2 预期结果2D</center>
 
@@ -3543,7 +3543,7 @@ SAT_1轨道参数如下：半长轴7378.3 km，偏心率0，轨道倾角40°，�
 
 添加卫星后，右键卫星名称，选择“添加天线”，可进入天线参数设置窗口，如图 25-3所示。
 
-![img](SpaceSim_userguide_example.assets/clip_image663.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image663.png)
 
 <center>图 25-3 添加天线</center>
 
@@ -3551,7 +3551,7 @@ SAT_1轨道参数如下：半长轴7378.3 km，偏心率0，轨道倾角40°，�
 
 进入天线设置窗口如图 25-4所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image665.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image665.png" alt="img" style="zoom:80%;" />
 
 <center>图 25-4 天线设置</center>
 
@@ -3559,19 +3559,19 @@ SAT_1轨道参数如下：半长轴7378.3 km，偏心率0，轨道倾角40°，�
 
 基础设置中，可以修改天线名称，模型路径保持默认。除基础设置外，通讯参数等设置需与第三方连接使用，如图 25-5所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image667.png" alt="图25-5 模型设置" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image667.png" alt="图25-5 模型设置" style="zoom:80%;" />
 
 <center>图 25-5 设置天线基本信息</center>
 
 天线参数设置模块的内容较多，按功能大致分类如图 25-6所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image669.png" alt="图25-6 天线详细设置" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image669.png" alt="图25-6 天线详细设置" style="zoom:80%;" />
 
 <center>图 25-6 天线参数设置</center>
 
  其中，天线波束形状信息功能如图 25-7所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image671.png" alt="图25-7 波束设置" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image671.png" alt="图25-7 波束设置" style="zoom:80%;" />
 
 <center>图 25-7 天线波束形状信息设置</center>
 
@@ -3591,13 +3591,13 @@ SAT_1轨道参数如下：半长轴7378.3 km，偏心率0，轨道倾角40°，�
 
 仿真结果如所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image673.png" alt="img" style="zoom: 33%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image673.png" alt="img" style="zoom: 33%;" />
 
 <center>图 25-8 3D视图</center>
 
  
 
-<img src="SpaceSim_userguide_example.assets/clip_image675.png" alt="img" style="zoom: 50%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image675.png" alt="img" style="zoom: 50%;" />
 
 <center>图 25-9 2D视图</center>
 
@@ -3644,7 +3644,7 @@ SAT_1轨道参数如下：半长轴7378.3 km，偏心率0，轨道倾角40°，�
 
 运行过程中，天线的指向和覆盖情况均随时间不断变化，预期仿真结果应如图 26-1所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image677.png" alt="img" style="zoom:50%;" /> <img src="SpaceSim_userguide_example.assets/clip_image679.png" alt="img" style="zoom:50%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image677.png" alt="img" style="zoom:50%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image679.png" alt="img" style="zoom:50%;" /></center>
 
 <center>图 26-1 预期仿真结果 </center>
 
@@ -3674,9 +3674,9 @@ SAT_1轨道参数如下：半长轴7378.3 km，偏心率0，轨道倾角40°，�
 
 为SAT_1添加天线，基础设置均保持默认。
 
-点击“发射增益”，进入发射增益设置，在“多波束设置”框下，点击![img](SpaceSim_userguide_example.assets/clip_image681.png)按钮，选择多波束增益文件，如图 26-2所示。
+点击“发射增益”，进入发射增益设置，在“多波束设置”框下，点击![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image681.png)按钮，选择多波束增益文件，如图 26-2所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image683.png" alt="图26-2 发射增益设置" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image683.png" alt="图26-2 发射增益设置" style="zoom:80%;" />
 
 <center>图 26-2 发射增益设置</center>
 
@@ -3686,7 +3686,7 @@ SAT_1轨道参数如下：半长轴7378.3 km，偏心率0，轨道倾角40°，�
 
 ..\SpaceSim\scenes\Demo_0602_AntennaCtrl，找到多波束增益文件zengqiang.txt，点击“打开”选中文件，如图 26-3所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image685.png" alt="图26-3 选择文件" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image685.png" alt="图26-3 选择文件" style="zoom:80%;" />
 
 <center>图 26-3 选择增益文件</center>
 
@@ -3708,7 +3708,7 @@ SAT_1轨道参数如下：半长轴7378.3 km，偏心率0，轨道倾角40°，�
 
 指令添加完毕如图 26-4所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image687.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image687.png" alt="img" style="zoom:80%;" />
 
 <center>图 26-4 任务指令添加</center>
 
@@ -3726,7 +3726,7 @@ SAT_1轨道参数如下：半长轴7378.3 km，偏心率0，轨道倾角40°，�
 
 在仿真过程中，SAT_2.ANTENNA_2执行不同指令后，完成了对指定地区的指向覆盖，结果如所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image689.png" alt="img" style="zoom:80%;" /> <img src="SpaceSim_userguide_example.assets/clip_image691.png" alt="img" style="zoom:80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image689.png" alt="img" style="zoom:80%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image691.png" alt="img" style="zoom:80%;" /></center>
 
 <center>图 26-5 仿真结果</center>
 
@@ -3823,7 +3823,7 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 卫星上的天线俯仰角保持默认0°即可。
 
-<img src="SpaceSim_userguide_example.assets/clip_image693.png" alt="图27-1 地面站天线" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image693.png" alt="图27-1 地面站天线" style="zoom:80%;" />
 
 <center>图 27-1 天线俯仰角设置</center>
 
@@ -3833,7 +3833,7 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 天线添加完毕后，右键天线名称，点击“配置发射机”，如图 27-2所示
 
-<img src="SpaceSim_userguide_example.assets/clip_image695.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image695.png" alt="img" style="zoom:80%;" />
 
 <center>图 27-2 配置发射机</center>
 
@@ -3841,7 +3841,7 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 进入发射机设置界面，如图 27-3所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image697.png" alt="图27-2 发射机配置" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image697.png" alt="图27-2 发射机配置" style="zoom:80%;" />
 
 <center>图 27-3 发射机设置</center>
 
@@ -3855,7 +3855,7 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 右键天线名称，点击“配置接收机”，如图 27-4所示。
 
-![img](SpaceSim_userguide_example.assets/clip_image699.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image699.png)
 
 <center>图 27-4 配置接收机</center>
 
@@ -3863,7 +3863,7 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 进入接收机设置，如图 27-5所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image701.png" alt="图27-4 接收机配置" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image701.png" alt="图27-4 接收机配置" style="zoom:80%;" />
 
 <center>图 27-5 接收机设置</center>
 
@@ -3873,7 +3873,7 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 为了更直接地观察干扰对通信质量的影响，需要去除接收机自身的抗干扰能力，操作如下：点击“抗扰参数设置”，将“常规抗扰”、“跳频抗扰”和“扩频抗扰”均取消勾选，即可去除接收机抗干扰能力，如图 27-6所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image703.png" alt="图27-4 去掉抗干扰" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image703.png" alt="图27-4 去掉抗干扰" style="zoom:80%;" />
 
 <center>图 27-6 去除抗干扰功能</center>
 
@@ -3883,7 +3883,7 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 为天线配置发射机并设置好发射机频率后，在发射机设置中，点击“干扰机设置”，勾选“干扰机”，将该发射机设置为干扰机，如图 27-7所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image705.png" alt="图27-5 干扰机设置" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image705.png" alt="图27-5 干扰机设置" style="zoom:80%;" />
 
 <center>图 27-7 干扰机设置</center>
 
@@ -3915,7 +3915,7 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 在菜单栏中点击“窗口”，选中“链路窗口显示”，打开链路窗口，如图 27-8所示。在该窗口中，可观察场景中存在的通信链路及通信的实时状态信息。
 
-<img src="SpaceSim_userguide_example.assets/clip_image707.png" alt="图27-6 链路窗口显示" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image707.png" alt="图27-6 链路窗口显示" style="zoom:80%;" />
 
 <center>图 27-8 链路窗口</center>
 
@@ -3935,7 +3935,7 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
  
 
-![img](SpaceSim_userguide_example.assets/clip_image709.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image709.png)
 
 <center>图 27-9 链路状态1</center>
 
@@ -3943,7 +3943,7 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 若修改地面站接收机的频率为14.5GHz，则地面站与SAT_5之间的通信频率不匹配，无法构建通信链路，链路状态如图 27-10所示。
 
-![img](SpaceSim_userguide_example.assets/clip_image711.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image711.png)
 
 <center>图 27-10 链路状态2</center>
 
@@ -3953,7 +3953,7 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 执行指令2，此时SAT_2的天线指向SAT_1，两颗卫星间形成通信链路，开始进行信息传输，如图 27-11所示。
 
-![img](SpaceSim_userguide_example.assets/clip_image713.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image713.png)
 
 <center>图 27-11 链路状态3</center>
 
@@ -3961,7 +3961,7 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 执行指令3，此时SAT_3的天线对SAT_1和SAT_2间的通信链路施加干扰，载干比下降，误码率大幅上升，通信质量明显下降，如图 27-12所示。
 
-![img](SpaceSim_userguide_example.assets/clip_image715.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image715.png)
 
 <center>图 27-12 链路状态4</center>
 
@@ -4015,7 +4015,7 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 预期结果如图 28-1所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image717.png" alt="img" style="zoom: 67%;" /> <img src="SpaceSim_userguide_example.assets/clip_image719.png" alt="img" style="zoom:67%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image717.png" alt="img" style="zoom: 67%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image719.png" alt="img" style="zoom:67%;" /></center>
 
 <center>图 28-1 Walker星座预期仿真结果</center>
 
@@ -4037,7 +4037,7 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 在菜单栏中点击“设置”，选择“Walker星座”，如所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image721.png" alt="图28-1 添加Walker星座" style="zoom: 80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image721.png" alt="图28-1 添加Walker星座" style="zoom: 80%;" />
 
 <center>图 28-2 添加Walker星座</center>
 
@@ -4045,7 +4045,7 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 输入Walker星座的参数，如图 28-3所示，点击“确定”完成添加。
 
-<img src="SpaceSim_userguide_example.assets/clip_image723.png" alt="img" style="zoom: 80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image723.png" alt="img" style="zoom: 80%;" />
 
 <center>图 28-3 Walker星座设置</center>
 
@@ -4055,17 +4055,17 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 同样在菜单栏“设置”窗口下，点击“域设置”，如图 28-4所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image725.png" alt="图28-3 域设置" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image725.png" alt="图28-3 域设置" style="zoom:80%;" />
 
 <center>图 28-4 添加域</center>
 
  
 
-在域设置界面，点击“添加域”，生成一个新的域，默认命名为yu0。选中“yu0”，点击下方![img](SpaceSim_userguide_example.assets/clip_image727.png)图标，将星座中的所有卫星全部添加到域中，如图 28-5所示。
+在域设置界面，点击“添加域”，生成一个新的域，默认命名为yu0。选中“yu0”，点击下方![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image727.png)图标，将星座中的所有卫星全部添加到域中，如图 28-5所示。
 
  
 
-<img src="SpaceSim_userguide_example.assets/clip_image729.png" alt="图28-3 域设置2" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image729.png" alt="图28-3 域设置2" style="zoom:80%;" />
 
 <center>图 28-5 域设置</center>
 
@@ -4075,15 +4075,15 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 在菜单栏中点击“场景”，选中“链路”，如图 28-6所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image731.png" alt="图28-4 添加链路" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image731.png" alt="图28-4 添加链路" style="zoom:80%;" />
 
 <center>图 28-6 添加链路</center>
 
  
 
-完成上述操作后，进入卫星链接属性设置界面，点击![img](SpaceSim_userguide_example.assets/clip_image733.png)添加链路，进入任务设置界面。在任务设置中，分别设置源节点和目标节点（此处源节点为：w_1，目标节点为：w_16），点击“添加”完成设置，如图 28-7所示。
+完成上述操作后，进入卫星链接属性设置界面，点击![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image733.png)添加链路，进入任务设置界面。在任务设置中，分别设置源节点和目标节点（此处源节点为：w_1，目标节点为：w_16），点击“添加”完成设置，如图 28-7所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image735.png" alt="图28-4 添加链路2" style="zoom:80%;" /> <img src="SpaceSim_userguide_example.assets/clip_image737.png" alt="图28-4 添加链路3" style="zoom:80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image735.png" alt="图28-4 添加链路2" style="zoom:80%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image737.png" alt="图28-4 添加链路3" style="zoom:80%;" /></center>
 
 <center>图 28-7 链路设置</center>
 
@@ -4093,7 +4093,7 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 在菜单栏中点击“窗口”，选择“路由窗口显示”，如图 28-8所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image739.png" alt="图28-5 路由窗口显示" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image739.png" alt="图28-5 路由窗口显示" style="zoom:80%;" />
 
 <center>图 28-8 路由窗口显示</center>
 
@@ -4101,7 +4101,7 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 路由窗口如图 28-9所示，仿真开始后，窗口中会显示星座中所存在的链路及其路由状况。
 
-<img src="SpaceSim_userguide_example.assets/clip_image741.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image741.png" alt="img" style="zoom:80%;" />
 
 <center>图 28-9 路由窗口</center>
 
@@ -4113,7 +4113,7 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 当2颗卫星位于相互可视区域时，卫星间可直接连通，如所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image743.png" alt="img" style="zoom: 80%;" /> <img src="SpaceSim_userguide_example.assets/clip_image745.png" alt="img" style="zoom: 80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image743.png" alt="img" style="zoom: 80%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image745.png" alt="img" style="zoom: 80%;" /></center>
 
 <center>图 28-10 直接连接</center>
 
@@ -4121,9 +4121,9 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 当2颗卫星彼此不可视时，卫星间无法直接连通，需通过其他中继卫星完成星间链路的构建，如图 28-11所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image747.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image747.png" alt="img" style="zoom:80%;" />
 
-<img src="SpaceSim_userguide_example.assets/clip_image749.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image749.png" alt="img" style="zoom:80%;" />
 
 <center>图 28-11 中继连接</center>
 
@@ -4169,7 +4169,7 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 预期结果如图 29-1所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image751.png" alt="img" style="zoom:80%;" /> <img src="SpaceSim_userguide_example.assets/clip_image753.png" alt="img" style="zoom:80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image751.png" alt="img" style="zoom:80%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image753.png" alt="img" style="zoom:80%;" /></center>
 
 <center>图 29-1 导航星座预期仿真结果</center>
 
@@ -4191,7 +4191,7 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 在场景中添加1颗卫星，进入卫星设置界面。
 
-<img src="SpaceSim_userguide_example.assets/clip_image755.png" alt="图29-2 加载飞机文件" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image755.png" alt="图29-2 加载飞机文件" style="zoom:80%;" />
 
 <center>图 29-2 飞机设置</center>
 
@@ -4201,7 +4201,7 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 ..\SpaceSim\scenes\Demo_0702_NaviWalker，找到轨道数据文件Airplane1.txt，点击“打开”选中文件，如图 29-3所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image757.png" alt="图29-3 选择文件" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image757.png" alt="图29-3 选择文件" style="zoom:80%;" />
 
 <center>图 29-3 选择轨道数据文件</center>
 
@@ -4211,7 +4211,7 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 选择完轨道数据文件后，点击上方“模型显示参数”，修改卫星名称为Airplane，并勾选“二维视窗显示经纬度”，如图 29-4所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image759.png" alt="图29-4 修改飞机名称" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image759.png" alt="图29-4 修改飞机名称" style="zoom:80%;" />
 
 <center>图 29-4 模型显示设置</center>
 
@@ -4223,7 +4223,7 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 输入Walker星座的参数，如图 29-5所示，点击“确定”完成添加。
 
-![img](SpaceSim_userguide_example.assets/clip_image760.jpg)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image760.jpg)
 
 <center>图 29-5 Walker星座设置</center>
 
@@ -4235,9 +4235,9 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 天线添加完毕后，右击所添加的天线，选择“添加导航接收机”，完成导航接收机设置，如图 29-6所示。
 
-![img](SpaceSim_userguide_example.assets/clip_image762.jpg)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image762.jpg)
 
-![img](SpaceSim_userguide_example.assets/clip_image764.jpg)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image764.jpg)
 
 <center>图 29-6 导航接收机设置</center>
 
@@ -4247,9 +4247,9 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 天线添加完毕后，右击所添加的天线，选择“添加导航载荷”，完成导航载荷设置，如图 29-7所示。
 
-![img](SpaceSim_userguide_example.assets/clip_image766.jpg)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image766.jpg)
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image768.png" alt="img" style="zoom: 80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image768.png" alt="img" style="zoom: 80%;" /></center>
 
 
 
@@ -4261,9 +4261,9 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 在菜单栏点击“设置”，选择“导航星设置”，将Walker星座中的w_1~w_24全部添加至导航星列表，如图 29-8所示。
 
-![图29-7 导航星设置](SpaceSim_userguide_example.assets/clip_image770.png)
+![图29-7 导航星设置](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image770.png)
 
-<img src="SpaceSim_userguide_example.assets/clip_image772.png" alt="图29-8 导航星添加" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image772.png" alt="图29-8 导航星添加" style="zoom:80%;" />
 
 <center>图 29-8 导航星设置</center>
 
@@ -4275,7 +4275,7 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 在指令命令表中选择“导航开机指令”，如图 29-9所示，选择装备名为“Airplane”，将执行时间修改为仿真开始时间。
 
-<img src="SpaceSim_userguide_example.assets/clip_image774.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image774.png" alt="img" style="zoom:80%;" />
 
 <center>图 29-9 导航开机指令</center>
 
@@ -4285,7 +4285,7 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 点击“输出（Output）”，选中Airplane，将“定位误差”、“几何精度因子”和“优选定位星”添加至输出，如图 29-10所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image776.png" alt="图29-10 添加输出" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image776.png" alt="图29-10 添加输出" style="zoom:80%;" />
 
 <center>图 29-10 添加输出</center>
 
@@ -4303,7 +4303,7 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 仿真过程中，定位星随时间不断改变，如图 29-11所示
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image778.png" alt="img" style="zoom:80%;" /> <img src="SpaceSim_userguide_example.assets/clip_image780.png" alt="img" style="zoom:80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image778.png" alt="img" style="zoom:80%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image780.png" alt="img" style="zoom:80%;" /></center>
 
 <center>图 29-11 仿真结果</center>
 
@@ -4311,7 +4311,7 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 输出文件如图 29-12所示。
 
-![img](SpaceSim_userguide_example.assets/clip_image782.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image782.png)
 
 <center>图 29-12 输出文件</center>
 
@@ -4343,7 +4343,7 @@ SAT_1的多波束天线随着卫星星下点位置的改变，天线的波束覆
 
 GPS星座是一个非对称的导航星座，共24颗星，6个近圆轨道面，每个轨道面非均匀分布4颗卫星。轨道高度20200km的MEO，倾角55°，周期12小时。全球任意点任意时刻，在高度角15°以上，至少观测4颗星，其预期仿真结果如图 30-1所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image784.png" alt="img" style="zoom:80%;" /> <img src="SpaceSim_userguide_example.assets/clip_image786.png" alt="img" style="zoom:80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image784.png" alt="img" style="zoom:80%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image786.png" alt="img" style="zoom:80%;" /></center>
 
 <center>图 30-1 GPS导航星座预期结果</center>
 
@@ -4365,7 +4365,7 @@ GPS星座是一个非对称的导航星座，共24颗星，6个近圆轨道面�
 
 在场景中添加1颗卫星，进入卫星设置界面。 
 
-<img src="SpaceSim_userguide_example.assets/clip_image788.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image788.png" alt="img" style="zoom:80%;" />
 
 图 30-2 飞机设置
 
@@ -4373,7 +4373,7 @@ GPS星座是一个非对称的导航星座，共24颗星，6个近圆轨道面�
 
 ..\SpaceSim\scenes\Demo_0703_NaviGPS，找到轨道数据文件Airplane1.txt，点击“打开”选中文件，如图 30-3所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image790.png" alt="图30-3 选择文件" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image790.png" alt="图30-3 选择文件" style="zoom:80%;" />
 
 <center>图 30-3 选择轨道数据文件 </center>
 
@@ -4389,7 +4389,7 @@ GPS星座是一个非对称的导航星座，共24颗星，6个近圆轨道面�
 
 进入网站，点击“GPS Operational”，如图 30-4所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image792.png" alt="图30-5 下载GPS文件" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image792.png" alt="图30-5 下载GPS文件" style="zoom:80%;" />
 
 <center>图 30-4 GPS星座参数</center>
 
@@ -4407,13 +4407,13 @@ GPS星座是一个非对称的导航星座，共24颗星，6个近圆轨道面�
 
 天线添加完毕后，为飞机添加导航接收机，为所有导航卫星添加导航载荷，接收机与载荷参数如图 30-5所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image794.png" alt="img" style="zoom:80%;" /> <img src="SpaceSim_userguide_example.assets/clip_image796.png" alt="img" style="zoom:80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image794.png" alt="img" style="zoom:80%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image796.png" alt="img" style="zoom:80%;" /></center>
 
 <center>图 30-5 导航接收机与载荷设置 </center>
 
 添加完毕如图 30-6所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image798.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image798.png" alt="img" style="zoom:80%;" />
 
 <center>图 30-6 导航设备设置完成</center>
 
@@ -4451,7 +4451,7 @@ GPS星座是一个非对称的导航星座，共24颗星，6个近圆轨道面�
 
 仿真过程中，GPS星座的优选定位星随时间不断改变，结果如图 30-7所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image800.png" alt="img" style="zoom:80%;" /> <img src="SpaceSim_userguide_example.assets/clip_image802.png" alt="img" style="zoom:80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image800.png" alt="img" style="zoom:80%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image802.png" alt="img" style="zoom:80%;" /></center>
 
 <center>图 30-7 GPS导航结果</center>
 
@@ -4459,7 +4459,7 @@ GPS星座是一个非对称的导航星座，共24颗星，6个近圆轨道面�
 
 输出文件如图 30-8所示。
 
-![img](SpaceSim_userguide_example.assets/clip_image804.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image804.png)
 
 <center>图 30-8 输出文件</center>
 
@@ -4471,7 +4471,7 @@ GPS星座是一个非对称的导航星座，共24颗星，6个近圆轨道面�
 
 将输出文件导入matlab等分析软件中，绘制图表，如图 30-9所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image806.png" alt="img" style="zoom: 50%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image806.png" alt="img" style="zoom: 50%;" />
 
 <center>图 30-9 定位误差与几何精度因子</center>
 
@@ -4503,7 +4503,7 @@ Glonass星座是一个对称的导航星座，由24颗MEO卫星组成，倾角64
 
 对极区的几何分布有利，适于高纬度国家，预期结果如图 31-1所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image808.png" alt="img" style="zoom:67%;" /> <img src="SpaceSim_userguide_example.assets/clip_image810.png" alt="img" style="zoom:67%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image808.png" alt="img" style="zoom:67%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image810.png" alt="img" style="zoom:67%;" /></center>
 
 <center>图 31-1 Glonass星座导航预期结果</center>
 
@@ -4523,7 +4523,7 @@ Glonass星座是一个对称的导航星座，由24颗MEO卫星组成，倾角64
 
 在场景中添加1颗卫星，进入卫星设置界面。 
 
-<img src="SpaceSim_userguide_example.assets/clip_image812.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image812.png" alt="img" style="zoom:80%;" />
 
 <center>图 31-2 飞机设置</center>
 
@@ -4545,7 +4545,7 @@ Glonass星座是一个对称的导航星座，由24颗MEO卫星组成，倾角64
 
 进入网站，点击“GLONASS Operational”，如图 31-3所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image814.png" alt="图31-3 下载Glonass文件" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image814.png" alt="图31-3 下载Glonass文件" style="zoom:80%;" />
 
 <center>图 31-3 Glonass星座参数</center>
 
@@ -4563,7 +4563,7 @@ Glonass星座是一个对称的导航星座，由24颗MEO卫星组成，倾角64
 
 天线添加完毕后，为飞机添加导航接收机，为所有导航卫星添加导航载荷，接收机与载荷参数如图 31-4所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image815.jpg" alt="图31-3 下载Glonass文件" style="zoom:100%;" /><img src="SpaceSim_userguide_example.assets/clip_image816.jpg" alt="图31-3 下载Glonass文件" style="zoom:100%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image815.jpg" alt="图31-3 下载Glonass文件" style="zoom:100%;" /><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image816.jpg" alt="图31-3 下载Glonass文件" style="zoom:100%;" /></center>
 
 <center>图 31-4 导航接收机与载荷设置</center>
 
@@ -4601,7 +4601,7 @@ Glonass星座是一个对称的导航星座，由24颗MEO卫星组成，倾角64
 
 Glonass导航星座的仿真结果如图 31-5所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image818.png" alt="img" style="zoom:80%;" /> <img src="SpaceSim_userguide_example.assets/clip_image820.png" alt="img" style="zoom:80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image818.png" alt="img" style="zoom:80%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image820.png" alt="img" style="zoom:80%;" /></center>
 
 <center>图 31-5 Glonass导航结果</center>
 
@@ -4609,7 +4609,7 @@ Glonass导航星座的仿真结果如图 31-5所示。
 
 输出文件如图 31-6所示。
 
-![img](SpaceSim_userguide_example.assets/clip_image822.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image822.png)
 
 <center>图 31-6 输出文件</center>
 
@@ -4621,7 +4621,7 @@ Glonass导航星座的仿真结果如图 31-5所示。
 
 将Glonass星座与GPS星座进行对比，如图 31-7所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image824.png" alt="img" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image824.png" alt="img" style="zoom:50%;" />
 
 <center>图 31-7 GPS-Glonass对比</center>
 
@@ -4655,7 +4655,7 @@ Galieo星座是一个对称星座，由27颗工作卫星和3颗备用卫星组�
 
 预期结果如图 32-1所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image826.png" alt="img" style="zoom: 80%;" /> <img src="SpaceSim_userguide_example.assets/clip_image828.png" alt="img" style="zoom:80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image826.png" alt="img" style="zoom: 80%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image828.png" alt="img" style="zoom:80%;" /></center>
 
 <center>图 32-1 Galieo星座导航预期结果</center>
 
@@ -4677,7 +4677,7 @@ Galieo星座是一个对称星座，由27颗工作卫星和3颗备用卫星组�
 
 在场景中添加1颗卫星，进入卫星设置界面。 
 
-<img src="SpaceSim_userguide_example.assets/clip_image830.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image830.png" alt="img" style="zoom:80%;" />
 
 <center>图 32-2 飞机设置</center>
 
@@ -4699,7 +4699,7 @@ Galieo星座是一个对称星座，由27颗工作卫星和3颗备用卫星组�
 
 进入网站，点击“Galieo”，如图 32-3所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image832.png" alt="图32-2 下载Galieo文件" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image832.png" alt="图32-2 下载Galieo文件" style="zoom:80%;" />
 
 <center>图 32-3 Galieo星座参数</center>
 
@@ -4717,7 +4717,7 @@ Galieo星座是一个对称星座，由27颗工作卫星和3颗备用卫星组�
 
 天线添加完毕后，为飞机添加导航接收机，为所有导航卫星添加导航载荷，接收机与载荷参数如图 32-4所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image815.jpg" alt="图32-2 下载Galieo文件" style="zoom:100%;" /><img src="SpaceSim_userguide_example.assets/clip_image833.jpg" alt="图32-2 下载Galieo文件" style="zoom:100%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image815.jpg" alt="图32-2 下载Galieo文件" style="zoom:100%;" /><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image833.jpg" alt="图32-2 下载Galieo文件" style="zoom:100%;" /></center>
 
 图 32-4 导航接收机与载荷设置
 
@@ -4755,7 +4755,7 @@ Galieo星座是一个对称星座，由27颗工作卫星和3颗备用卫星组�
 
 Galieo导航星座的仿真结果如图 32-5所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image835.png" alt="img" style="zoom:80%;" /> <img src="SpaceSim_userguide_example.assets/clip_image837.png" alt="img" style="zoom:80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image835.png" alt="img" style="zoom:80%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image837.png" alt="img" style="zoom:80%;" /></center>
 
 图 32-5 Galieo导航结果
 
@@ -4763,7 +4763,7 @@ Galieo导航星座的仿真结果如图 32-5所示。
 
 输出文件如图 32-6所示。
 
-![img](SpaceSim_userguide_example.assets/clip_image839.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image839.png)
 
 <center>图 32-6 输出文件</center>
 
@@ -4775,7 +4775,7 @@ Galieo导航星座的仿真结果如图 32-5所示。
 
 将Galieo星座与GPS星座进行对比，如图 32-7所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image841.png" alt="img" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image841.png" alt="img" style="zoom:50%;" />
 
 <center>图 32-7 GPS-Galieo对比</center>
 
@@ -4807,7 +4807,7 @@ Galieo导航星座的仿真结果如图 32-5所示。
 
 预期结果如图 33-1所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image843.png" alt="img" style="zoom:80%;" /> <img src="SpaceSim_userguide_example.assets/clip_image845.png" alt="img" style="zoom:80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image843.png" alt="img" style="zoom:80%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image845.png" alt="img" style="zoom:80%;" /></center>
 
 <center>图 33-1 北斗导航星座预期结果</center>
 
@@ -4829,7 +4829,7 @@ Galieo导航星座的仿真结果如图 32-5所示。
 
 在场景中添加1颗卫星，进入卫星设置界面。
 
-<img src="SpaceSim_userguide_example.assets/clip_image847.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image847.png" alt="img" style="zoom:80%;" />
 
 <center>图 33-2 飞机设置</center>
 
@@ -4849,7 +4849,7 @@ Galieo导航星座的仿真结果如图 32-5所示。
 
 进入网站，点击“Beidou”，如所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image849.png" alt="图33-2 下载Beidou文件" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image849.png" alt="图33-2 下载Beidou文件" style="zoom:80%;" />
 
 <center>图 33-3 北斗星座参数</center>
 
@@ -4867,7 +4867,7 @@ Galieo导航星座的仿真结果如图 32-5所示。
 
 天线添加完毕后，为飞机添加导航接收机，为所有导航卫星添加导航载荷，接收机与载荷参数如图 33-4所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image815.jpg" alt="图33-2 下载Beidou文件" style="zoom:100%;" /><img src="SpaceSim_userguide_example.assets/clip_image850.jpg" alt="图33-2 下载Beidou文件" style="zoom:100%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image815.jpg" alt="图33-2 下载Beidou文件" style="zoom:100%;" /><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image850.jpg" alt="图33-2 下载Beidou文件" style="zoom:100%;" /></center>
 
 <center>图 33-4 导航接收机与载荷设置</center>
 
@@ -4905,7 +4905,7 @@ Galieo导航星座的仿真结果如图 32-5所示。
 
 北斗导航星座的仿真结果如图 33-5所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image852.png" alt="img" style="zoom:80%;" /> <img src="SpaceSim_userguide_example.assets/clip_image854.png" alt="img" style="zoom:80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image852.png" alt="img" style="zoom:80%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image854.png" alt="img" style="zoom:80%;" /></center>
 
 <center>图 33-5 北斗导航结果</center>
 
@@ -4917,7 +4917,7 @@ Galieo导航星座的仿真结果如图 32-5所示。
 
 将北斗星座与GPS星座进行对比，如图 33-6所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image856.png" alt="img" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image856.png" alt="img" style="zoom:50%;" />
 
 <center>图 33-6 GPS-北斗对比 </center>
 
@@ -4943,7 +4943,7 @@ Galieo导航星座的仿真结果如图 32-5所示。
 
 预期结果如图 34-1所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image858.png" alt="img" style="zoom:80%;" /> <img src="SpaceSim_userguide_example.assets/clip_image860.png" alt="img" style="zoom:80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image858.png" alt="img" style="zoom:80%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image860.png" alt="img" style="zoom:80%;" /></center>
 
 <center>图 34-1 GPS-北斗联合导航预期结果 </center>
 
@@ -4961,7 +4961,7 @@ Galieo导航星座的仿真结果如图 32-5所示。
 
 在场景中添加1颗卫星，进入卫星设置界面。
 
-<img src="SpaceSim_userguide_example.assets/clip_image862.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image862.png" alt="img" style="zoom:80%;" />
 
 <center>图 34-2 飞机设置 </center>
 
@@ -4985,7 +4985,7 @@ Galieo导航星座的仿真结果如图 32-5所示。
 
 天线添加完毕后，为飞机添加导航接收机，为所有导航卫星添加导航载荷，接收机与载荷参数如图 34-3所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image863.jpg" alt="img" style="zoom:100%;" /> <img src="SpaceSim_userguide_example.assets/clip_image864.jpg" alt="img" style="zoom:100%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image863.jpg" alt="img" style="zoom:100%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image864.jpg" alt="img" style="zoom:100%;" /></center>
 
 <center>图 34-3 导航接收机与载荷设置</center>
 
@@ -5023,7 +5023,7 @@ Galieo导航星座的仿真结果如图 32-5所示。
 
 GPS-北斗联合导航仿真结果如图 34-4所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image866.png" alt="img" style="zoom:100%;" /> <img src="SpaceSim_userguide_example.assets/clip_image868.png" alt="img" style="zoom:100%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image866.png" alt="img" style="zoom:100%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image868.png" alt="img" style="zoom:100%;" /></center>
 
 <center>图 34-4 GPS-北斗联合导航结果</center>
 
@@ -5031,7 +5031,7 @@ GPS-北斗联合导航仿真结果如图 34-4所示。
 
 输出文件如图 34-5所示。
 
-![img](SpaceSim_userguide_example.assets/clip_image870.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image870.png)
 
 <center>图 34-5 输出文件</center>
 
@@ -5039,7 +5039,7 @@ GPS-北斗联合导航仿真结果如图 34-4所示。
 
 将文件输出结果导出，与GPS、北斗导航进行比较，并绘制分析图样，如图 34-6所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image872.png" alt="img" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image872.png" alt="img" style="zoom:50%;" />
 
 <center>图 34-6 GPS-北斗联合导航分析</center>
 
@@ -5071,7 +5071,7 @@ IRNSS属于印度区域导航系统，空间段由7颗导航卫星组成，其�
 
 预期仿真结果如图 35-1所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image874.png" alt="img" style="zoom:80%;" /> <img src="SpaceSim_userguide_example.assets/clip_image876.png" alt="img" style="zoom:80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image874.png" alt="img" style="zoom:80%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image876.png" alt="img" style="zoom:80%;" /></center>
 
 <center>图 35-1 IRNSS导航星座预期结果</center>
 
@@ -5095,7 +5095,7 @@ IRNSS属于印度区域导航系统，空间段由7颗导航卫星组成，其�
 
  
 
-<img src="SpaceSim_userguide_example.assets/clip_image878.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image878.png" alt="img" style="zoom:80%;" />
 
 <center>图 35-2 飞机设置</center>
 
@@ -5125,7 +5125,7 @@ IRNSS属于印度区域导航系统，空间段由7颗导航卫星组成，其�
 
 天线添加完毕后，为飞机添加导航接收机，为所有导航卫星添加导航载荷，接收机与载荷参数如图 35-3所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image879.jpg" alt="img" style="zoom:100%;" /> <img src="SpaceSim_userguide_example.assets/clip_image816.jpg" alt="img" style="zoom:100%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image879.jpg" alt="img" style="zoom:100%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image816.jpg" alt="img" style="zoom:100%;" /></center>
 
 <center>图 35-3 导航接收机与载荷设置</center>
 
@@ -5165,7 +5165,7 @@ IRNSS属于印度区域导航系统，空间段由7颗导航卫星组成，其�
 
 IRNSS导航星座的仿真结果如图 35-4所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image881.png" alt="img" style="zoom:67%;" /> <img src="SpaceSim_userguide_example.assets/clip_image883.png" alt="img" style="zoom:67%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image881.png" alt="img" style="zoom:67%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image883.png" alt="img" style="zoom:67%;" /></center>
 
 <center>图 35-4 IRNSS导航结果</center>
 
@@ -5177,7 +5177,7 @@ IRNSS导航星座的仿真结果如图 35-4所示。
 
 将IRNSS与GPS进行对比，绘制分析图样如图 35-5所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image885.png" alt="img" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image885.png" alt="img" style="zoom:50%;" />
 
 <center>图 35-5 GPS-IRNSS对比</center>
 
@@ -5255,7 +5255,7 @@ Walker星座参数如下：
 
 星座运行过程中，对地覆盖情况及覆盖重数均会不断改变，预期仿真结果如图 36-1所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image887.png" alt="img" style="zoom:67%;" /> <img src="SpaceSim_userguide_example.assets/clip_image889.png" alt="img" style="zoom:67%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image887.png" alt="img" style="zoom:67%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image889.png" alt="img" style="zoom:67%;" /></center>
 
 图 36-1 星座覆盖效能预估
 
@@ -5283,13 +5283,13 @@ Walker星座参数如下：
 
 右键点击“卫星（SAT）”，选择“添加分组”，进入分组设置，输入分组名称“双星”，点击“OK”完成添加，如图 36-2、图 36-3所示。
 
-![img](SpaceSim_userguide_example.assets/clip_image891.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image891.png)
 
 <center>图 36-2 添加分组</center>
 
  
 
-<img src="SpaceSim_userguide_example.assets/clip_image893.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image893.png" alt="img" style="zoom:80%;" />
 
 <center>图 36-3 分组设置</center>
 
@@ -5297,7 +5297,7 @@ Walker星座参数如下：
 
 在“双星”分组上右键，点击“添加卫星”，加入2颗卫星（详细参数见“实验内容”部分），如图 36-4所示。
 
-![img](SpaceSim_userguide_example.assets/clip_image895.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image895.png)
 
 <center>图 36-4 双星系统添加卫星</center>
 
@@ -5311,7 +5311,7 @@ Walker星座参数如下：
 
 右键点击“覆盖对象”，选择“添加覆盖对象”，如图 36-5所示。
 
-![img](SpaceSim_userguide_example.assets/clip_image897.png)
+![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image897.png)
 
 <center>图 36-5 添加覆盖对象</center>
 
@@ -5319,7 +5319,7 @@ Walker星座参数如下：
 
 进入设置界面，修改对象名称为“target”，将开始和结束时间调整为与仿真开始结束时间相一致，选择对象类型为“Constellation_Area”，如图 36-6所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image899.png" alt="图36-5 添加覆盖对象2" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image899.png" alt="图36-5 添加覆盖对象2" style="zoom:80%;" />
 
 <center>图 36-6 覆盖对象设置</center>
 
@@ -5327,7 +5327,7 @@ Walker星座参数如下：
 
 在下方覆盖区域设置中，选择“Constellation_Area”，输入所测试的星座对象名称“双星”，并添加覆盖区域边界点，如图 36-7所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image901.png" alt="图36-7 设置覆盖区域" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image901.png" alt="图36-7 设置覆盖区域" style="zoom:80%;" />
 
 <center>图 36-7 覆盖区域设置</center>
 
@@ -5337,7 +5337,7 @@ Walker星座参数如下：
 
  
 
-<img src="SpaceSim_userguide_example.assets/clip_image903.png" alt="img" style="zoom: 67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image903.png" alt="img" style="zoom: 67%;" />
 
 <center>图 36-8 覆盖对象添加完毕</center>
 
@@ -5347,13 +5347,13 @@ Walker星座参数如下：
 
 保存场景并重新加载场景后，在菜单栏选择“信息显示”，点击“星座覆盖效能”，打开星座覆盖效能窗口，如图 36-9、图 36-10所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image905.png" alt="图36-8 星座覆盖效能" style="zoom: 67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image905.png" alt="图36-8 星座覆盖效能" style="zoom: 67%;" />
 
 <center>图 36-9 星座覆盖效能</center>
 
  
 
-<img src="SpaceSim_userguide_example.assets/clip_image907.png" alt="图36-8 星座覆盖效能窗口" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image907.png" alt="图36-8 星座覆盖效能窗口" style="zoom:67%;" />
 
 <center>图 36-10 覆盖数据显示</center>
 
@@ -5371,13 +5371,13 @@ Walker星座参数如下：
 
 仿真运行结果如图 36-11、图 36-12所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image909.png" alt="img" style="zoom:80%;" /> <img src="SpaceSim_userguide_example.assets/clip_image911.png" alt="img" style="zoom: 80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image909.png" alt="img" style="zoom:80%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image911.png" alt="img" style="zoom: 80%;" /></center>
 
 <center>图 36-11 双星系统覆盖情况</center>
 
  
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image913.png" alt="img" style="zoom:100%;" /> <img src="SpaceSim_userguide_example.assets/clip_image915.png" alt="img" style="zoom: 80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image913.png" alt="img" style="zoom:100%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image915.png" alt="img" style="zoom: 80%;" /></center>
 
 <center>图 36-12 Walker星座覆盖情况</center>
 
@@ -5385,7 +5385,7 @@ Walker星座参数如下：
 
 运行一段时间后，总体覆盖情况如图 36-13所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image917.png" alt="img" style="zoom:80%;" /> <img src="SpaceSim_userguide_example.assets/clip_image919.png" alt="img" style="zoom:80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image917.png" alt="img" style="zoom:80%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image919.png" alt="img" style="zoom:80%;" /></center>
 
 <center>图 36-13 总体覆盖情况</center>
 
@@ -5446,7 +5446,7 @@ Walker星座参数如下：
 
 当卫星飞过船只上方时，用相机对其进行拍照和保存，理想的拍摄状况如所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image921.png" alt="img" style="zoom:80%;" /> <img src="SpaceSim_userguide_example.assets/clip_image923.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image921.png" alt="img" style="zoom:80%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image923.png" alt="img" style="zoom:80%;" />
 
  
 
@@ -5470,13 +5470,13 @@ Walker星座参数如下：
 
 右键点击卫星，选择“添加相机”，进入相机设置界面。点击左上角“相机观测任务”，由于卫星需要对地成像，因此勾选下方“指定角度”，并将俯仰角和方位角均设置为0，如图 37-1所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image925.png" alt="img" style="zoom:100%;" /> <img src="SpaceSim_userguide_example.assets/clip_image927.png" alt="图37-2 指定角度观测" style="zoom:80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image925.png" alt="img" style="zoom:100%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image927.png" alt="图37-2 指定角度观测" style="zoom:80%;" /></center>
 
 图 37-1 添加相机
 
 如需对相机进行更详细的设置，可以在相机参数自行调整，如图 37-2所示。本次实验中，可以勾选“保存图片”将拍摄画面输出。
 
-<img src="SpaceSim_userguide_example.assets/clip_image929.png" alt="图37-1 相机设置" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image929.png" alt="图37-1 相机设置" style="zoom:80%;" />
 
 <center>图 37-2 相机参数</center>
 
@@ -5484,7 +5484,7 @@ Walker星座参数如下：
 
 设置完成后，可双击相机打开相机视窗，如图 37-3所示（由于CAMERA_1此时位于海域上方，故无画面显示），再次双击可关闭画面。
 
-<img src="SpaceSim_userguide_example.assets/clip_image931.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image931.png" alt="img" style="zoom:80%;" />
 
 <center>图 37-3 相机视窗</center>
 
@@ -5516,17 +5516,17 @@ Walker星座参数如下：
 
 3颗卫星的拍摄结果如图 37-4、图 37-5、图 37-6所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image933.png" alt="img" style="zoom:80%;" /> <img src="SpaceSim_userguide_example.assets/clip_image935.png" alt="img" style="zoom:80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image933.png" alt="img" style="zoom:80%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image935.png" alt="img" style="zoom:80%;" /></center>
 
 <center>图 37-4 SAT_1拍摄结果</center>
 
  
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image937.png" alt="img" style="zoom:80%;" /> <img src="SpaceSim_userguide_example.assets/clip_image939.png" alt="img" style="zoom:80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image937.png" alt="img" style="zoom:80%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image939.png" alt="img" style="zoom:80%;" /></center>
 
 <center>图 37-5 SAT_2拍摄结果</center>
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image941.png" alt="img" style="zoom:80%;" /> <img src="SpaceSim_userguide_example.assets/clip_image943.png" alt="img" style="zoom:80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image941.png" alt="img" style="zoom:80%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image943.png" alt="img" style="zoom:80%;" /></center>
 
 <center>图 37-6 SAT_3拍摄结果</center>
 
@@ -5604,7 +5604,7 @@ SAT_1为追踪成像，其视场中应当始终有飞机的影像；SAT_2为前�
 
 在场景中添加1颗卫星，进入卫星设置界面。
 
-<img src="SpaceSim_userguide_example.assets/clip_image945.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image945.png" alt="img" style="zoom:80%;" />
 
 <center>图 38-1 飞机设置</center>
 
@@ -5624,7 +5624,7 @@ SAT_1为追踪成像，其视场中应当始终有飞机的影像；SAT_2为前�
 
 为SAT_2添加相机，在“相机观测任务”中，勾选“是否自动执行自动观测指令”，在上方场景列表中，将Airplane添加至观测目标列表中，如图 38-2所示。完成后将观测开始和结束时间修改至与仿真时间一致。
 
-<img src="SpaceSim_userguide_example.assets/clip_image947.png" alt="图38-2 追踪观测" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image947.png" alt="图38-2 追踪观测" style="zoom:80%;" />
 
 <center>图 38-2 追踪观测</center>
 
@@ -5652,7 +5652,7 @@ SAT_1为追踪成像，其视场中应当始终有飞机的影像；SAT_2为前�
 
 SAT_2追踪成像结果如图 38-3所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image949.png" alt="img" style="zoom:80%;" /> <img src="SpaceSim_userguide_example.assets/clip_image951.png" alt="img" style="zoom:80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image949.png" alt="img" style="zoom:80%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image951.png" alt="img" style="zoom:80%;" /></center>
 
 <center>图 38-3 SAT_2追踪成像结果</center>
 
@@ -5660,7 +5660,7 @@ SAT_2追踪成像结果如图 38-3所示。
 
 SAT_3顺轨成像结果如图 38-4所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image953.png" alt="img" style="zoom:80%;" /> <img src="SpaceSim_userguide_example.assets/clip_image955.png" alt="img" style="zoom:80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image953.png" alt="img" style="zoom:80%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image955.png" alt="img" style="zoom:80%;" /></center>
 
 <center>图 38-4 SAT_3顺轨成像结果</center>
 
@@ -5668,13 +5668,13 @@ SAT_3顺轨成像结果如图 38-4所示。
 
 SAT_4侧视成像结果如图 38-5、图 38-6所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image957.png" alt="img" style="zoom: 67%;" /> <img src="SpaceSim_userguide_example.assets/clip_image959.png" alt="img" style="zoom: 67%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image957.png" alt="img" style="zoom: 67%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image959.png" alt="img" style="zoom: 67%;" /></center>
 
 <center>图 38-5 SAT_4侧视对地面站成像</center>
 
  
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image961.png" alt="img" style="zoom:67%;" /> <img src="SpaceSim_userguide_example.assets/clip_image963.png" alt="img" style="zoom:67%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image961.png" alt="img" style="zoom:67%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image963.png" alt="img" style="zoom:67%;" /></center>
 
 <center>图 38-6 SAT_4侧视对船成像</center>
 
@@ -5720,7 +5720,7 @@ SAT_4侧视成像结果如图 38-5、图 38-6所示。
 
 当船进入侦察卫星的侦察范围后，卫星应当迅速捕捉到船的位置，将船调整至视野中央，并进行长时间跟踪观察，预期结果如图 39-1所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image965.png" alt="img" style="zoom: 50%;" /> <img src="SpaceSim_userguide_example.assets/clip_image967.png" alt="img" style="zoom:67%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image965.png" alt="img" style="zoom: 50%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image967.png" alt="img" style="zoom:67%;" /></center>
 
 <center>图 39-1 侦察卫星捕捉目标</center>
 
@@ -5752,17 +5752,17 @@ SAT_4侧视成像结果如图 38-5、图 38-6所示。
 
 在场景中添加1艘船，进入船舶设置界面，如图 39-2所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image969.png" alt="图39-2 船舶设置" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image969.png" alt="图39-2 船舶设置" style="zoom:80%;" />
 
 <center>图 39-2 船舶设置</center>
 
  
 
-在“模型数据”板块中，勾选“启用数据文件”，点击![img](SpaceSim_userguide_example.assets/clip_image971.png)进入SpaceSim的安装目录，进入下列文件夹：
+在“模型数据”板块中，勾选“启用数据文件”，点击![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image971.png)进入SpaceSim的安装目录，进入下列文件夹：
 
 ..\SpaceSim\scenes\Demo_0804_RS_Inspect，找到船舶数据文件ship.txt，点击“打开”选中文件。
 
-<img src="SpaceSim_userguide_example.assets/clip_image973.png" alt="图39-3 船舶数据文件" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image973.png" alt="图39-3 船舶数据文件" style="zoom:80%;" />
 
 <center>图 39-3 船舶数据文件</center>
 
@@ -5786,7 +5786,7 @@ SAT_4侧视成像结果如图 38-5、图 38-6所示。
 
 运行过程中，当船出现在侦察卫星天线的覆盖范围中时，侦察卫星将迅速锁定目标，并调整天线指向使得船位于天线覆盖中心，如图 39-4所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image975.png" alt="img" style="zoom:67%;" /> <img src="SpaceSim_userguide_example.assets/clip_image977.png" alt="img" style="zoom:67%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image975.png" alt="img" style="zoom:67%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image977.png" alt="img" style="zoom:67%;" /></center>
 
 <center>图 39-4 侦察锁定目标</center>
 
@@ -5794,7 +5794,7 @@ SAT_4侧视成像结果如图 38-5、图 38-6所示。
 
 随后，卫星和船继续运行，此时卫星天线指向将始终跟随船移动，完成对船舶的追踪，如图 39-5所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image979.png" alt="img" style="zoom:67%;" /> <img src="SpaceSim_userguide_example.assets/clip_image981.png" alt="img" style="zoom:67%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image979.png" alt="img" style="zoom:67%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image981.png" alt="img" style="zoom:67%;" /></center>
 
 <center>图 39-5 追踪目标</center>
 
@@ -5841,7 +5841,7 @@ SAT_4侧视成像结果如图 38-5、图 38-6所示。
 
 如图 40-1所示，在仿真中，低轨卫星上的相机应完成对高轨卫星的连续拍摄，从而实现天基定轨。
 
-<img src="SpaceSim_userguide_example.assets/clip_image983.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image983.png" alt="img" style="zoom:80%;" />
 
 <center>图 40-1 天基观测预期结果</center>
 
@@ -5871,7 +5871,7 @@ SAT_4侧视成像结果如图 38-5、图 38-6所示。
 
 为SAT_1添加遥感相机，在“相机观测任务”中，勾选“指定角度”，将相机的俯仰角设置为180°，方位角0°，以实现天基观测，如图 40-2所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image985.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image985.png" alt="img" style="zoom:80%;" />
 
 <center>图 40-2 指定相机角度</center>
 
@@ -5883,7 +5883,7 @@ SAT_4侧视成像结果如图 38-5、图 38-6所示。
 
 由于本次实验中，需要使用到图片叠加的功能，故需要勾选“保存图片”，如图 40-3所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image987.png" alt="图40-3 保存图片" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image987.png" alt="图40-3 保存图片" style="zoom:80%;" />
 
 <center>图 40-3 保存图片</center>
 
@@ -5895,7 +5895,7 @@ SAT_4侧视成像结果如图 38-5、图 38-6所示。
 
 当SAT_2接近相机视野边界时，点击“暂停仿真”，进入相机设置界面。在“相机观测任务”栏下，点击“叠加图片”，完成图片叠加，如图 40-4所示。
 
-<center><img src="SpaceSim_userguide_example.assets/clip_image989.png" alt="img" style="zoom: 67%;" /> <img src="SpaceSim_userguide_example.assets/clip_image991.png" alt="图40-4 叠加图片" style="zoom:80%;" /></center>
+<center><img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image989.png" alt="img" style="zoom: 67%;" /> <img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image991.png" alt="图40-4 叠加图片" style="zoom:80%;" /></center>
 
 <center>图 40-4 叠加图片</center>
 
@@ -5907,7 +5907,7 @@ SAT_4侧视成像结果如图 38-5、图 38-6所示。
 
 仿真过程中生成的叠加图片如图 40-5所示。
 
-<img src="SpaceSim_userguide_example.assets/clip_image993.png" alt="img" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image993.png" alt="img" style="zoom:67%;" />
 
 <center>图 40-5 图片叠加结果</center>
 
