@@ -26,7 +26,7 @@ SpaceSim航天器系统仿真软件基于C++/QT开发，能够支持X86、ARM、
 im1:
 ![img](https://github.com/AerospaceHIT/experiment/blob/main/clip_image002.png)
 im2:
-![img](./ims/clip_image022.png)
+![img](./ims/clip_image002.png)
 im3:
 ![img](https://github.com/AerospaceHIT/experiment/blob/main/clip_image002.png)
 im4:
