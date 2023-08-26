@@ -38,7 +38,7 @@ SpaceSim航天器系统仿真软件基于C++/QT开发，能够支持X86、ARM、
 
 软件成功应用于哈尔滨工业大学、西北工业大学、南京航空航天大学等科研院所及高校的教学及科研中，并支持了空间站、北斗导航卫星、月球探测器等型号研制任务。
 
-![img](https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image006.jpg)
+![img](https://github.com/AerospaceHIT/experiment/blob/main/clip_image002.png)
 
 图 3北斗导航卫星星座仿真
 
