@@ -24,7 +24,7 @@ SpaceSim航天器系统仿真软件基于C++/QT开发，能够支持X86、ARM、
 
 软件基于模块化开发，场景配置、数据、显示、交互界面独立运行，而且所有代码均有源代码，自主可控，使用了部分版权友好的开源类库，支持闭源商业化应用，无版权纠纷。软件的配置基于JSON及XML，数据库采用MySQL/MariaDB，三维显示引擎采用OpenSceneGraph/OpenGL，所有组件可以通过DLL、COM组件、FMI及网络通讯等不同形式集成到其他第三方系统中，同时可基于模板类实现用户自定义二次开发模块的即插即用扩展。
 ![img]([https://github.com/AerospaceHIT/experiment/blob/main/clip_image002.png])
-./ims/clip_image022.png
+![img]([./ims/clip_image022.png])
 
 ![img]([https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image002.png])
 图 1 SpaceSim软件界面
