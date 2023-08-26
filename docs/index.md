@@ -27,6 +27,8 @@ im1:
 ![img](https://github.com/AerospaceHIT/experiment/blob/main/clip_image002.png)
 im2:
 ![img](./ims/clip_image022.png)
+im3:
+![img](https://github.com/AerospaceHIT/experiment/blob/main/clip_image002.png)
 
 ![img]([https://cdn.jsdelivr.net/gh/AerospaceHIT/SpaceSim@main/assets/clip_image002.png])
 图 1 SpaceSim软件界面
