@@ -618,7 +618,7 @@ $$
 
 预期结果如图 4-1所示，该轨道的轨道平面应始终与太阳光线保持固定的夹角。
 
-<img src="SpaceSim_userguide_example.assets/clip_image130.png" alt="图4.1 预期结果" style="zoom:67%;" />
+![img](SpaceSim_userguide_example.assets/clip_image130.png)
 
 <center>图 4-1 太阳同步轨道</center>
 
