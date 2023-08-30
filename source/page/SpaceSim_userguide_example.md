@@ -1109,9 +1109,7 @@ SAT_1为无漂移冻结轨道，近地点幅角为90度；SAT_2漂移5度，所�
 
 ![img](https://img-blog.csdnimg.cn/98ceaf6910c441d6b18ac3565cbb82b8.png)
 
-<div aligh=right>
-![img](https://img-blog.csdnimg.cn/98ceaf6910c441d6b18ac3565cbb82b8.png)
-</div>
+<img src="https://img-blog.csdnimg.cn/98ceaf6910c441d6b18ac3565cbb82b8.png" align=right />
 
 
 
