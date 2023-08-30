@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'sphinx_exp'
-copyright = '2023, Sam'
-author = 'Sam'
+project = 'SpaceSim'
+copyright = '2023, Wei_Cheng'
+author = 'Wei_Cheng'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
