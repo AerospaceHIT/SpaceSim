@@ -128,10 +128,11 @@
 ### 3.预期结果
 
 仿真结果三维显示效果如图1-1所示，展示不同轨道间的差异。
-
 <img src="SpaceSim_userguide_example.assets/clip_image002.png" alt="img" style="zoom: 33%;" />
-
 <center>图1-1预期3D仿真结果</center>
+
+![img](SpaceSim_userguide_example.assets/clip_image002.png)
+<center>temp</center>
 
 ## 二、操作步骤
 
