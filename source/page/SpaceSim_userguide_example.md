@@ -134,6 +134,9 @@
 ![img](SpaceSim_userguide_example.assets/clip_image002.png)
 <center>temp</center>
 
+<img src="[SpaceSim_userguide_example.assets/clip_image002.png](https://imgse.com/i/pP0UKVU)" alt="img" style="zoom: 33%;" />
+<center>图1-1预期3D仿真结果</center>
+
 ## 二、操作步骤
 
 （参见案例“Demo_0101_Orbit_Basic”）
