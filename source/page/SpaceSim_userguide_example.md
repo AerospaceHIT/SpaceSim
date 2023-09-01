@@ -134,7 +134,7 @@
 ![img](SpaceSim_userguide_example.assets/clip_image002.png)
 <center>temp</center>
 
-<img src="["https://imgse.com/i/pP0UKVU"]" alt="img" style="zoom: 33%;" />
+<img src="https://s1.ax1x.com/2023/09/01/pP0UKVU.png" alt="img" style="zoom: 100%;" />
 <center>temp2</center>
 
 ## 二、操作步骤
