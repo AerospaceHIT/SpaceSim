@@ -1,6 +1,16 @@
 
 
+![img](SpaceSim_userguide_example.assets/clip_image002.png)
+<center>temp</center>
 
+<img src="https://s1.ax1x.com/2023/09/01/pP0UKVU.png" alt="img" style="zoom: 100%;" />
+<center>temp2</center>
+
+<img src="https://pic.imgdb.cn/item/64f149f8661c6c8e54393e2b.jpg" style="zoom: 100%;" />
+temp3
+
+<img src="https://files.imgdb.cn/static/images/3e/2b/64f149f8661c6c8e54393e2b.jpg?n=j3vmL0dJ&s=78e971ed&t=64f14ba9" style="zoom: 100%;" />
+temp4
 
 
 
@@ -130,18 +140,6 @@
 仿真结果三维显示效果如图1-1所示，展示不同轨道间的差异。
 <img src="SpaceSim_userguide_example.assets/clip_image002.png" alt="img" style="zoom: 33%;" />
 <center>图1-1预期3D仿真结果</center>
-
-![img](SpaceSim_userguide_example.assets/clip_image002.png)
-<center>temp</center>
-
-<img src="https://s1.ax1x.com/2023/09/01/pP0UKVU.png" alt="img" style="zoom: 100%;" />
-<center>temp2</center>
-
-<img src="https://pic.imgdb.cn/item/64f149f8661c6c8e54393e2b.jpg" style="zoom: 100%;" />
-temp3
-
-<img src="https://files.imgdb.cn/static/images/3e/2b/64f149f8661c6c8e54393e2b.jpg?n=j3vmL0dJ&s=78e971ed&t=64f14ba9" style="zoom: 100%;" />
-temp4
 
 ## 二、操作步骤
 
