@@ -3,7 +3,7 @@
 ===============================================
 [安装说明](Installation) 
 
-[使用手册](SpaceSim_userguide_example) 
+[使用手册](SpaceSim_userguide_example_iternet) 
 
 [指令列表](CommandList) 
 
