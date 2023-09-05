@@ -3,7 +3,7 @@
 ===============================================
 [安装说明](page/Installation) 
 
-[使用手册](page/SpaceSim_userguide_example) 
+[使用手册](page/SpaceSim_userguide_example_internet.md) 
 
 [指令列表](page/CommandList) 
 
