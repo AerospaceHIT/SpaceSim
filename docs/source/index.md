@@ -28,7 +28,8 @@
 
 <center>图 1 SpaceSim软件界面</center>
 
-<div align=center><img src="index.assets/clip_image004.png" alt="img" style="zoom: 50%;" /></div>
+<div align=center><img src="http://118.195.139.164:8000/spacesim_ims/main_page/clip_image004.png" alt="img" style="zoom: 50%;" /></div>
+
 <center>图 2 SpaceSim软件框架与功能模块</center>
 
  
