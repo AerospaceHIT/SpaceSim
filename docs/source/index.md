@@ -6,11 +6,11 @@
 
 SpaceSim软件能够支持航天器姿态轨道动力学与控制、导航星座设计与信号特性、通信卫星覆盖及干扰特性、空间光学遥感成像、星座任务规划与调度、空间博弈对抗等系统仿真，涵盖航天器设计、测试、发射、运行和任务应用等各个阶段，已成功应用于高校教学、科研院所及国防单位的工程任务，正逐渐在教学实践、型号设计、体系应用、评估演训等领域发挥重要作用。
 
-![img](http://118.195.139.164:8000/spacesim_ims/main_page/clip_image001.png)
+<img src="http://118.195.139.164:8000/spacesim_ims/main_page/clip_image001.png" alt="img" style="zoom:100%;" />
 
 <center>图 1 航天器系统仿真软件SpaceSim</center>
 
-![教材封面](http://118.195.139.164:8000/spacesim_ims/main_page/clip_image004.jpg)
+<img src="http://118.195.139.164:8000/spacesim_ims/main_page/clip_image004.jpg" alt="教材封面" style="zoom:100%;" />
 
 <center>图 2 《航天器系统仿真技术》教材图片</center>
 
@@ -18,7 +18,7 @@ SpaceSim软件能够支持航天器姿态轨道动力学与控制、导航星座
 
 软件模块组成如下图所示。
 
-![软件模块组成图-初稿](http://118.195.139.164:8000/spacesim_ims/main_page/clip_image005.jpg)
+<img src="http://118.195.139.164:8000/spacesim_ims/main_page/clip_image005.jpg" alt="软件模块组成图-初稿" style="zoom:100%;" />
 
 <center>图 3 SpaceSim软件模块组成图</center>
 
@@ -62,47 +62,47 @@ SpaceSim软件能够支持航天器姿态轨道动力学与控制、导航星座
 
 # 四、SpaceSim典型应用案例
 
-![img](http://118.195.139.164:8000/spacesim_ims/main_page/4-万颗卫星.gif)
+<img src="http://118.195.139.164:8000/spacesim_ims/main_page/4-万颗卫星.gif" alt="img" style="zoom:100%;" />
 
 <center>图 4 万颗卫星仿真</center>
 
-![img](http://118.195.139.164:8000/spacesim_ims/main_page/5-跨域通信.gif)
+<img src="http://118.195.139.164:8000/spacesim_ims/main_page/5-跨域通信.gif" alt="img" style="zoom:100%;" />
 
 <center>图 5 跨域通信仿真</center>
 
-![img](http://118.195.139.164:8000/spacesim_ims/main_page/6-动态路由.gif)
+<img src="http://118.195.139.164:8000/spacesim_ims/main_page/6-动态路由.gif" alt="img" style="zoom:100%;" />
 
 <center>图 6 动态路由仿真</center>
 
-![img](http://118.195.139.164:8000/spacesim_ims/main_page/7-抗干扰.gif)
+<img src="http://118.195.139.164:8000/spacesim_ims/main_page/7-抗干扰.gif" alt="img" style="zoom:100%;" />
 
 <center>图 7 抗干扰特性仿真</center>
 
-![img](http://118.195.139.164:8000/spacesim_ims/main_page/8-星座设计与导航.gif)
+<img src="http://118.195.139.164:8000/spacesim_ims/main_page/8-星座设计与导航.gif" alt="img" style="zoom:100%;" />
 
 <center>图 8 星座设计与导航仿真</center>
 
-![img](http://118.195.139.164:8000/spacesim_ims/main_page/9-弹道导弹.gif)
+<img src="http://118.195.139.164:8000/spacesim_ims/main_page/9-弹道导弹.gif" alt="img" style="zoom:100%;" />
 
 <center>图 9 弹道导弹仿真</center>
 
-![img](http://118.195.139.164:8000/spacesim_ims/main_page/clip_image019.png)
+<img src="http://118.195.139.164:8000/spacesim_ims/main_page/clip_image019.png" alt="img" style="zoom:100%;" />
 
 <center>图 10 天基预警仿真</center>
 
-![img](http://118.195.139.164:8000/spacesim_ims/main_page/clip_image021.png)
+<img src="http://118.195.139.164:8000/spacesim_ims/main_page/clip_image021.png" alt="img" style="zoom:100%;" />
 
 <center>图 11 全球GDOP导航因子云图分析</center>
 
-![img](http://118.195.139.164:8000/spacesim_ims/main_page/clip_image023.png)
+<img src="http://118.195.139.164:8000/spacesim_ims/main_page/clip_image023.png" alt="img" style="zoom:100%;" />
 
 <center>图 12 空间环境三维云图</center>
 
-![img](http://118.195.139.164:8000/spacesim_ims/main_page/clip_image025.png)
+<img src="http://118.195.139.164:8000/spacesim_ims/main_page/clip_image025.png" alt="img" style="zoom:100%;" />
 
 <center>图 13 空间环境二维云图</center>
 
-![img](http://118.195.139.164:8000/spacesim_ims/main_page/clip_image027.png)
+<img src="http://118.195.139.164:8000/spacesim_ims/main_page/clip_image027.png" alt="img" style="zoom:100%;" />
 
 <center>图 14 光学遥感成像模拟</center>
 
