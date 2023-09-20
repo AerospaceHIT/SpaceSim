@@ -10,7 +10,7 @@ SpaceSim软件能够支持航天器姿态轨道动力学与控制、导航星座
 
 <center>图 1 航天器系统仿真软件SpaceSim</center>
 
-<img src="http://118.195.139.164:8000/spacesim_ims/main_page/clip_image004.jpg" alt="教材封面" style="zoom:100%;" />
+<div align=middle><img src="http://118.195.139.164:8000/spacesim_ims/main_page/clip_image004.jpg" alt="教材封面" style="zoom:100%;" /></div>
 
 <center>图 2 《航天器系统仿真技术》教材图片</center>
 
