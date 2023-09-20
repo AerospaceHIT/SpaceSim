@@ -161,6 +161,6 @@ https://spacesim.readthedocs.io/en/latest/
 
 #  使用手册：
 
-具体的案例软件使用详细手册请参考[使用手册](page/SpaceSim_userguide_example_internet.md) 
+具体的案例，软件使用详细手册请参考[使用手册](page/SpaceSim_userguide_example_internet.md) 
 
 #  END
