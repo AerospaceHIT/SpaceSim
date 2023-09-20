@@ -1,4 +1,4 @@
-# 航天器系统仿真软件SpaceSim重磅发布
+# 航天器系统仿真软件SpaceSim
 
 # 一、SpaceSim软件介绍
 
@@ -6,11 +6,11 @@
 
 SpaceSim软件能够支持航天器姿态轨道动力学与控制、导航星座设计与信号特性、通信卫星覆盖及干扰特性、空间光学遥感成像、星座任务规划与调度、空间博弈对抗等系统仿真，涵盖航天器设计、测试、发射、运行和任务应用等各个阶段，已成功应用于高校教学、科研院所及国防单位的工程任务，正逐渐在教学实践、型号设计、体系应用、评估演训等领域发挥重要作用。
 
-<div align=middle><img src="http://118.195.139.164:8000/spacesim_ims/main_page/clip_image001.png" alt="img" style="zoom:100%;" /></div>
+<div align=middle><img src="http://118.195.139.164:8000/spacesim_ims/main_page/clip_image001.png" alt="img" style="zoom:80%;" /></div>
 
 <center>图 1 航天器系统仿真软件SpaceSim</center>
 
-<div align=middle><img src="http://118.195.139.164:8000/spacesim_ims/main_page/clip_image004.jpg" alt="教材封面" style="zoom:100%;" /></div>
+<div align=middle><img src="http://118.195.139.164:8000/spacesim_ims/main_page/clip_image003.jpg" alt="教材封面" style="zoom:100%;" /></div>
 
 <center>图 2 《航天器系统仿真技术》教材图片</center>
 
@@ -54,7 +54,7 @@ SpaceSim软件能够支持航天器姿态轨道动力学与控制、导航星座
 
 ⑤软件功能库与界面独立开发，支持用户自有界面与渲染；
 
-⑥所有功能依托航天院所实际工程需求开发，功能精炼、用途明确、人机交互简易；
+⑥依托工程需求开发，功能精炼、用途明确、人机交互简易；
 
 ⑦软件基于C++开发，具有完全自主的知识产权，完全国产，支持Windows、Linux、麒麟等操作系统。
 
@@ -82,31 +82,17 @@ SpaceSim软件能够支持航天器姿态轨道动力学与控制、导航星座
 
 <center>图 8 星座设计与导航仿真</center>
 
+<div align=middle><img src="http://118.195.139.164:8000/spacesim_ims/main_page/9-遥感成像仿真.gif" alt="img" style="zoom:100%;" /></div>
+
+<center>图 9 遥感成像仿真</center>
+
 <div align=middle><img src="http://118.195.139.164:8000/spacesim_ims/main_page/9-弹道导弹.gif" alt="img" style="zoom:100%;" /></div>
 
-<center>图 9 弹道导弹仿真</center>
+<center>图 10 弹道导弹仿真</center>
 
-<div align=middle><img src="http://118.195.139.164:8000/spacesim_ims/main_page/clip_image019.png" alt="img" style="zoom:100%;" /></div>
+<div align=middle><img src="http://118.195.139.164:8000/spacesim_ims/main_page/11-天基预警.gif" alt="img" style="zoom:100%;" /></div>
 
-<center>图 10 天基预警仿真</center>
-
-<div align=middle><img src="http://118.195.139.164:8000/spacesim_ims/main_page/clip_image021.png" alt="img" style="zoom:100%;" /></div>
-
-<center>图 11 全球GDOP导航因子云图分析</center>
-
-<div align=middle><img src="http://118.195.139.164:8000/spacesim_ims/main_page/clip_image023.png" alt="img" style="zoom:100%;" /></div>
-
-<center>图 12 空间环境三维云图</center>
-
-<div align=middle><img src="http://118.195.139.164:8000/spacesim_ims/main_page/clip_image025.png" alt="img" style="zoom:100%;" /></div>
-
-<center>图 13 空间环境二维云图</center>
-
-<div align=middle><img src="http://118.195.139.164:8000/spacesim_ims/main_page/clip_image027.png" alt="img" style="zoom:100%;" /></div>
-
-<center>图 14 光学遥感成像模拟</center>
-
- 
+<center>图 11 天基预警仿真</center>
 
 # 五、SpaceSim软件基础功能案例列表
 
