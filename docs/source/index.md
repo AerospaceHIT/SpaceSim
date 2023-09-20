@@ -62,11 +62,11 @@ SpaceSim软件能够支持航天器姿态轨道动力学与控制、导航星座
 
 # 四、SpaceSim典型应用案例
 
-<div align=middle><img src="http://118.195.139.164:8000/spacesim_ims/main_page/4-万颗卫星.gif" alt="img" style="zoom:100%;" /></div>
+<div align=middle><img src="https://pic.imgdb.cn/item/650a906cc458853aef58f7a8.gif" alt="img" style="zoom:100%;" /></div>
 
 <center>图 4 万颗卫星仿真</center>
 
-<div align=middle><img src="http://118.195.139.164:8000/spacesim_ims/main_page/5-跨域通信.gif" alt="img" style="zoom:100%;" /></div>
+<div align=middle><img src="https://pic.imgdb.cn/item/650a901dc458853aef58e796.gif" alt="img" style="zoom:100%;" /></div>
 
 <center>图 5 跨域通信仿真</center>
 
@@ -86,7 +86,7 @@ SpaceSim软件能够支持航天器姿态轨道动力学与控制、导航星座
 
 <center>图 9 遥感成像仿真</center>
 
-<div align=middle><img src="http://118.195.139.164:8000/spacesim_ims/main_page/9-弹道导弹.gif" alt="img" style="zoom:100%;" /></div>
+<div align=middle><img src="http://118.195.139.164:8000/spacesim_ims/main_page/10-弹道导弹.gif" alt="img" style="zoom:100%;" /></div>
 
 <center>图 10 弹道导弹仿真</center>
 
