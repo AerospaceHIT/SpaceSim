@@ -64,31 +64,31 @@ SpaceSim软件能够支持航天器姿态轨道动力学与控制、导航星座
 
 ![img](http://118.195.139.164:8000/spacesim_ims/main_page/4-万颗卫星.gif)
 
-<center>图 4 万颗卫星仿真（发布改成动图）</center>
+<center>图 4 万颗卫星仿真</center>
 
 ![img](http://118.195.139.164:8000/spacesim_ims/main_page/5-跨域通信.gif)
 
-<center>图 5 跨域通信仿真（发布改成动图）</center>
+<center>图 5 跨域通信仿真</center>
 
 ![img](http://118.195.139.164:8000/spacesim_ims/main_page/6-动态路由.gif)
 
-<center>图 6 动态路由仿真（发布改成动图）</center>
+<center>图 6 动态路由仿真</center>
 
 ![img](http://118.195.139.164:8000/spacesim_ims/main_page/7-抗干扰.gif)
 
-<center>图 7 抗干扰特性仿真（发布改成动图）</center>
+<center>图 7 抗干扰特性仿真</center>
 
 ![img](http://118.195.139.164:8000/spacesim_ims/main_page/8-星座设计与导航.gif)
 
-<center>图 8 星座设计与导航仿真（发布改成动图）</center>
+<center>图 8 星座设计与导航仿真</center>
 
 ![img](http://118.195.139.164:8000/spacesim_ims/main_page/9-弹道导弹.gif)
 
-<center>图 9 弹道导弹仿真（发布改成动图）</center>
+<center>图 9 弹道导弹仿真</center>
 
 ![img](http://118.195.139.164:8000/spacesim_ims/main_page/clip_image019.png)
 
-<center>图 10 天基预警仿真（发布改成动图）</center>
+<center>图 10 天基预警仿真</center>
 
 ![img](http://118.195.139.164:8000/spacesim_ims/main_page/clip_image021.png)
 
